@@ -31,10 +31,12 @@ Amid a total of 1765 listings scraped over the months June to November 2025
 - Most bachelor-friendly 'flats' are available in Mohammedpur with Uttara being the second highest
 
 ## Dashboard Preview
-<img width="1608" height="888" alt="image" src="https://github.com/user-attachments/assets/4b8a4fa6-506a-4aef-9be2-ce035e4f1c64" />
+<img width="1401" height="687" alt="image" src="https://github.com/user-attachments/assets/0d86af3a-6cc8-4555-8696-863af92159be" />
+
 
 
 [![View on Tableau Public](https://img.shields.io/badge/View_Dashboard_on_Tableau_public-blue?logo=tableau&style=for-the-badge)](https://public.tableau.com/views/InsightsonBachelor-FriendlyRentalFlatsinDhakaCity/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 
