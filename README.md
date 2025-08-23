@@ -1,5 +1,6 @@
-# Insights-on-Bachelor-Friendly-Rental-Flats-in-Dhaka-City
+# Insights on Bachelor Friendly Rental Flats in Dhaka City
 This Tableau dashboard provides a comprehensive analysis of bachelor-friendly rental properties in Dhaka City from June to November 2025.
+
 Tableau Public View: https://public.tableau.com/app/profile/nowshin.tabasum/viz/InsightsonBachelor-FriendlyRentalFlatsinDhakaCity/Dashboard1
 
 Source: https://www.thetolet.com/bd/property-district/dhaka/dhaka?category=bachelor
@@ -16,10 +17,10 @@ This project aims to solve such problems through an interactive tableau dashboar
 The dashboard also includes an interactive tool that allows the user to find areas based on their budget and preferred accommodation type.
 
 ## Tools
--Selenium Web scraper
--Python
--QGIS 
--Tableau Public
+- Selenium Web scraper
+- Python
+- QGIS 
+- Tableau Public
 
 ## Key Insights:
 Amid a total of 1765 listings scraped over the months June to November 2025
@@ -30,7 +31,11 @@ Amid a total of 1765 listings scraped over the months June to November 2025
 - Most bachelor-friendly 'flats' are available in Mohammedpur with Uttara being the second highest
 
 ## Dashboard Preview
-[![View on Tableau Public](https://img.shields.io/badge/View-Interactive_Dashboard-blue?logo=tableau&style=for-the-badge)](https://public.tableau.com/views/InsightsonBachelor-FriendlyRentalFlatsinDhakaCity/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img width="1608" height="888" alt="image" src="https://github.com/user-attachments/assets/4b8a4fa6-506a-4aef-9be2-ce035e4f1c64" />
+
+
+[![View on Tableau Public](https://img.shields.io/badge/View_Dashboard_on_Tableau_public-blue?logo=tableau&style=for-the-badge)](https://public.tableau.com/views/InsightsonBachelor-FriendlyRentalFlatsinDhakaCity/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 
