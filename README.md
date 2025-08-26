@@ -17,7 +17,7 @@ This project aims to solve such problems through an interactive tableau dashboar
 The dashboard also includes an interactive tool that allows the user to find areas based on their budget and preferred accommodation type.
 
 ## Tools
-- Selenium Web scraper
+- Selenium
 - Python
 - QGIS 
 - Tableau Public
