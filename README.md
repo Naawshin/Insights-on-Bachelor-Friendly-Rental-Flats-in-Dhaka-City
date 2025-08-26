@@ -35,9 +35,6 @@ Amid a total of 1765 listings scraped over the months June to November 2025
 
 
 
-[![View on Tableau Public](https://img.shields.io/badge/View_Dashboard_on_Tableau_public-blue?logo=tableau&style=for-the-badge)](https://public.tableau.com/views/InsightsonBachelor-FriendlyRentalFlatsinDhakaCity/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-
 
 
 
