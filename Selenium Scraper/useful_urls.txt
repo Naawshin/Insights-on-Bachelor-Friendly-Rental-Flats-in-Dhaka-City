@@ -1,0 +1,4 @@
+Scrapable Data Source: https://www.thetolet.com/bd/property-district/dhaka/dhaka?category=bachelor
+Map Data Source: https://data.humdata.org/dataset/cod-ab-bgd
+
+**Use QGIS to manipulate the map data according to your requirements**
