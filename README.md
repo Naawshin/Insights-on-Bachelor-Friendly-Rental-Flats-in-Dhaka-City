@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 5. Run the scraper
 ```bash
-python Selenium Scraper/data_scraper.py
+python Selenium src/Scraper/data_scraper.py
 ```
 6. I ran the scraper for each specific area. The area specific csv files can be found in /data/Scraped Data folder. 
 
@@ -68,6 +68,7 @@ python Selenium Scraper/data_scraper.py
 
 
 [![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-orange?logo=tableau&logoColor=white)](https://public.tableau.com/views/InsightsonBachelorFriendlyRentalPropertiesinDhaka/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 
