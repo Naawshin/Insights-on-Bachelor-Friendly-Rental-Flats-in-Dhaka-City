@@ -1,0 +1,65 @@
+Rent_Type,Title,Location,Bedrooms,Bathrooms,Rent,Availability_Month,Gender,Property_URL
+Room,Bachelor Room Rent,"ECB Chattar, Cantonment",1,1,7500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/cantonment/93762/bachelor
+Seat,Bachelor Seat Rent,"ECB Chattar, Cantonment",1,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/93761/bachelor
+Seat,Bachelor Seat Rent,"Matikata, Cantonment",1,1,2260,September,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/93755/bachelor
+Room,Bachelor Room Rent,"ECB Chattar, Cantonment",1,1,8000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/93263/bachelor
+Seat,Bachelor Seat Rent,"Matikata, Cantonment",1,1,3000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/cantonment/92960/bachelor
+Room,Bachelor Room Rent,"Cantonment, Dhaka",1,1,6000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/92235/bachelor
+Room,Bachelor Room Rent,"ECB Chattar, Cantonment",1,1,7500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/91663/bachelor
+Seat,Bachelor Seat Rent,"Cantonment, Dhaka",1,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/91217/bachelor
+Seat,Bachelor Seat Rent,"Manikdi, Cantonment",1,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/90425/bachelor
+Seat,Bachelor Seat Rent,"ECB Chattar, Cantonment",1,1,2800,July,Female,https://www.thetolet.com/bd/property-post/dhaka/cantonment/90211/bachelor
+Room,Bachelor Room Rent,"ECB Chattar, Cantonment",1,1,5000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/cantonment/89877/bachelor
+Room,Bachelor Room Rent,"Manikdi, Cantonment",1,1,5500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/cantonment/89875/bachelor
+Seat,Bachelor Seat Rent,"Matikata, Cantonment",1,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/89872/bachelor
+Seat,Bachelor Seat Rent,"Manikdi, Cantonment",1,1,2750,July,Female,https://www.thetolet.com/bd/property-post/dhaka/cantonment/87814/bachelor
+Flat,Bachelor House Rent,"Matikata, Cantonment",3,3,5000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/87801/bachelor
+Flat,Bachelor House Rent,"Cantonment, Dhaka",2,2,15000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/87532/bachelor
+Seat,Bachelor Seat Rent,"Matikata, Cantonment",1,1,3500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/cantonment/87242/bachelor
+Seat,Bachelor Seat Rent,"ECB Chattar, Cantonment",1,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/86446/bachelor
+Room,Bachelor Room Rent,"Matikata, Cantonment",1,1,7500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/85567/bachelor
+Seat,Bachelor Seat Rent,"Cantonment, Dhaka",1,1,4100,June,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/85563/bachelor
+Seat,Bachelor Seat Rent,"Matikata, Cantonment",1,1,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/82123/bachelor
+Room,Bachelor Room Rent,"Matikata, Cantonment",1,1,6000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/82122/bachelor
+Seat,Bachelor Seat Rent,"Matikata, Cantonment",1,1,2820,May,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/81109/bachelor
+Room,Bachelor Room Rent,"Matikata, Cantonment",1,1,4000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/81107/bachelor
+Seat,Bachelor Seat Rent,"Matikata, Cantonment",1,1,3000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/cantonment/80223/bachelor
+Room,Bachelor Room Rent,"Manikdi, Cantonment",1,1,10000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/79941/bachelor
+Room,Bachelor Room Rent,"Matikata, Cantonment",1,1,8000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/79939/bachelor
+Room,Bachelor Room Rent,"ECB Chattar, Cantonment",1,1,5000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/79502/bachelor
+Seat,Bachelor Seat Rent,"ECB Chattar, Cantonment",1,1,4000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/cantonment/79294/bachelor
+Room,Bachelor Room Rent,"Matikata, Cantonment",1,1,6000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/79106/bachelor
+Seat,Bachelor Seat Rent,"ECB Chattar, Cantonment",1,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/77058/bachelor
+Seat,Bachelor Seat Rent,"ECB Chattar, Cantonment",1,1,1600,February,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/76542/bachelor
+Flat,Bachelor House Rent,"Matikata, Cantonment",1,1,5000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/75814/bachelor
+Seat,Bachelor Seat Rent,"ECB Chattar, Cantonment",1,1,2100,January,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/74204/bachelor
+Seat,Bachelor Seat Rent,"Manikdi, Cantonment",1,1,1600,January,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/73579/bachelor
+Seat,Bachelor Seat Rent,"Cantonment, Dhaka",1,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/73222/bachelor
+Seat,Bachelor Seat Rent,"Matikata, Cantonment",1,1,2100,January,Female,https://www.thetolet.com/bd/property-post/dhaka/cantonment/71371/bachelor
+Seat,Bachelor Seat Rent,"ECB Chattar, Cantonment",1,1,2500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/71092/bachelor
+Seat,Bachelor Seat Rent,"Manikdi, Cantonment",1,1,2200,December,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/70728/bachelor
+Seat,Bachelor Seat Rent,"ECB Chattar, Cantonment",1,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/67503/bachelor
+Room,Bachelor Room Rent,"Cantonment, Dhaka",1,1,6000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/61305/bachelor
+Room,Bachelor Room Rent,"ECB Chattar, Cantonment",1,1,4000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/60957/bachelor
+Seat,Bachelor Seat Rent,"Matikata, Cantonment",1,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/60956/bachelor
+Room,Bachelor Room Rent,"Manikdi, Cantonment",1,1,5000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/60932/bachelor
+Seat,Bachelor Seat Rent,"ECB Chattar, Cantonment",1,1,2800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/60289/bachelor
+Room,Bachelor Room Rent,"ECB Chattar, Cantonment",1,1,4500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/57179/bachelor
+Seat,Bachelor Seat Rent,"Matikata, Cantonment",1,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/56603/bachelor
+Seat,Bachelor Seat Rent,"Matikata, Cantonment",1,1,3300,June,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/55988/bachelor
+Room,Bachelor Room Rent,"ECB Chattar, Cantonment",1,1,4000,May,Female,https://www.thetolet.com/bd/property-post/dhaka/cantonment/55530/bachelor
+Room,Bachelor Room Rent,"Manikdi, Cantonment",1,1,8000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/51437/bachelor
+Room,Bachelor Room Rent,"Manikdi, Cantonment",1,1,4500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/50735/bachelor
+Seat,Bachelor Seat Rent,"Manikdi, Cantonment",1,1,5000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/50180/bachelor
+Room,Bachelor Room Rent,"Manikdi, Cantonment",1,1,6000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/50179/bachelor
+Seat,Bachelor Seat Rent,"Manikdi, Cantonment",1,1,2200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/48314/bachelor
+Room,Bachelor Room Rent,"ECB Chattar, Cantonment",1,1,5000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/40294/bachelor
+Room,Bachelor Room Rent,"Manikdi, Cantonment",1,1,2000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/38753/bachelor
+Seat,Bachelor Seat Rent,"Matikata, Cantonment",3,3,3200,November,Female,https://www.thetolet.com/bd/property-post/dhaka/cantonment/37386/bachelor
+Room,Bachelor Room Rent,"Cantonment, Dhaka",2,1,4500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/36329/bachelor
+Seat,Bachelor Seat Rent,"Cantonment, Dhaka",1,1,1500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/35384/bachelor
+Flat,Bachelor Flat Rent,"ECB Chattar, Cantonment",3,1,7000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/35382/bachelor
+Room,Bachelor Room Rent,"ECB Chattar, Cantonment",1,1,5500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/33847/bachelor
+Room,Bachelor Room Rent,"Cantonment, Dhaka",1,1,4500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/33845/bachelor
+Seat,Bachelor Seat Rent,"ECB Chattar, Cantonment",2,1,3300,August,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/32458/bachelor
+Room,Bachelor Room Rent,"Cantonment, Dhaka",1,1,4000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/cantonment/6992/bachelor

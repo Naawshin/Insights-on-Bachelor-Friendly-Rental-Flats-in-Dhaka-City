@@ -1,0 +1,8 @@
+Rent_Type,Title,Location,Bedrooms,Bathrooms,Rent,Availability_Month,Gender,Property_URL
+Flat,Bachelor Flat Rent,"Jurain, Shyampur",2,1,4500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/shyampur/99732/bachelor
+Seat,Bachelor Seat Rent,"Shyampur, Dhaka",1,1,1430,October,Male,https://www.thetolet.com/bd/property-post/dhaka/shyampur/98263/bachelor
+Seat,Bachelor Seat Rent,"Shyampur, Dhaka",1,1,1430,August,Male,https://www.thetolet.com/bd/property-post/dhaka/shyampur/91264/bachelor
+Seat,Bachelor Seat Rent,"Jurain, Shyampur",1,1,2000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/shyampur/82542/bachelor
+Room,Bachelor Room Rent,"Jurain, Shyampur",1,1,4000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/shyampur/79372/bachelor
+Room,Bachelor Room Rent,"Shyampur, Dhaka",1,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/shyampur/64925/bachelor
+Flat,Bachelor House Rent,"Shyampur, Dhaka",1,1,6000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/shyampur/7530/bachelor

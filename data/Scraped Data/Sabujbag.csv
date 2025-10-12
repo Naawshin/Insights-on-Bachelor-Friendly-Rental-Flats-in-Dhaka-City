@@ -1,0 +1,15 @@
+Rent_Type,Title,Location,Bedrooms,Bathrooms,Rent,Availability_Month,Gender,Property_URL
+Seat,Bachelor Seat Rent,"Basabo, Sabujbag",1,1,3250,October,Male,https://www.thetolet.com/bd/property-post/dhaka/sabujbag/88780/bachelor
+Seat,Bachelor Seat Rent,"Basabo, Sabujbag",1,1,2300,July,Male,https://www.thetolet.com/bd/property-post/dhaka/sabujbag/88770/bachelor
+Flat,Bachelor Flat Rent,"Basabo, Sabujbag",2,2,12000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/sabujbag/78747/bachelor
+Room,Bachelor Room Rent,"Basabo, Sabujbag",1,1,4000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/sabujbag/60389/bachelor
+Seat,Bachelor Seat Rent,"Ahammedbag, Sabujbag",2,1,4000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/sabujbag/51613/bachelor
+Seat,Bachelor Seat Rent,"Sabujbag, Dhaka",1,1,2000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/sabujbag/37249/bachelor
+Seat,Bachelor Seat Rent,"Basabo, Sabujbag",1,1,2500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/sabujbag/36928/bachelor
+Seat,Bachelor Seat Rent,"Basabo, Sabujbag",2,2,2750,October,Male,https://www.thetolet.com/bd/property-post/dhaka/sabujbag/35332/bachelor
+Room,Bachelor Room Rent,"Basabo, Sabujbag",1,1,5500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/sabujbag/35260/bachelor
+Seat,Bachelor Seat Rent,"Basabo, Sabujbag",1,1,2500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/sabujbag/34255/bachelor
+Room,Bachelor Room Rent,"Basabo, Sabujbag",1,1,7000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/sabujbag/32318/bachelor
+Flat,Bachelor House Rent,"Basabo, Sabujbag",4,3,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/sabujbag/30840/bachelor
+Flat,Bachelor House Rent,"Basabo, Sabujbag",2,2,1500,March,Anyone,https://www.thetolet.com/bd/property-post/dhaka/sabujbag/30481/bachelor
+Flat,Bachelor House Rent,"Basabo, Sabujbag",1,2,6000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/sabujbag/7396/bachelor

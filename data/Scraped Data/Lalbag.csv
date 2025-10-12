@@ -1,0 +1,1351 @@
+Rent_Type,Title,Location,Bedrooms,Bathrooms,Rent,Availability_Month,Gender,Property_URL
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,1700,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/95402/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,1700,September,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/95399/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/95308/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1850,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/95306/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/95305/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/95303/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3750,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/95273/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/95270/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4500,October,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/95168/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,3300,September,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/95096/bachelor
+Seat,Bachelor Seat Rent,"Nawabganj, Lalbag",1.0,1,3000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/95090/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2530,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/95057/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2650,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/95055/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/95024/family
+Flat,Family Flat Rent,"Azimpur, Lalbag",2.0,2,11000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94988/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94957/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2800,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94953/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2450,September,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94911/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,September,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94910/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3800,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94886/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2100,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94821/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2300,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94809/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2100,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94789/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94701/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,5000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94695/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,1800,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94682/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94628/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,1840,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94567/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2350,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94547/family
+Flat,Family Flat Rent,"Old Dhaka, Lalbag",1.0,1,6000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94537/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2250,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94523/family
+Room,Family Room Rent,"Azimpur, Lalbag",2.0,1,8000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94522/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,8000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94513/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2520,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94502/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2400,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94501/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94499/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2800,September,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94497/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3450,September,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94496/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94495/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,2700,September,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94078/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4000,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94071/family
+Flat,Family Flat Rent,"Rosulbag, Lalbag",2.0,1,12000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94070/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,September,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94069/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,4000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94067/hostel
+Seat,Hostel Seat Rent,"Azimpur, Lalbag",,1,2490,September,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94066/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94065/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94063/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94062/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3350,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94061/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3100,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94060/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1850,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94039/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94038/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94037/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/94036/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,7000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93942/bachelor
+Seat,Bachelor Seat Rent,"Old Dhaka, Lalbag",1.0,1,3200,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93819/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,2112,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93814/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,5150,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93711/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1930,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93659/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2720,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93657/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2167,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93650/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93648/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4200,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93645/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,5400,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93644/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,6000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93643/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,7500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93642/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2570,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93641/family
+Flat,Family House Rent,"Lalbag, Dhaka",1.0,1,6500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93630/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93628/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,8000,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93627/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,8000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93626/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93604/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93321/family
+Flat,Family House Rent,"Rosulbag, Lalbag",1.0,1,4500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93283/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2300,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93282/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,7800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93281/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2935,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93135/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93134/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,9000,October,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93124/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3550,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93123/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2200,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93122/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2040,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93121/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3020,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93120/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2050,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93025/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,8500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93024/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93022/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2333,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/93021/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92997/bachelor
+Room,Bachelor Room Rent,"Rosulbag, Lalbag",1.0,1,6000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92996/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92995/bachelor
+Flat,Bachelor House Rent,"Azimpur, Lalbag",2.0,1,14000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92994/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,7000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92992/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92989/family
+Flat,Family Flat Rent,"Rosulbag, Lalbag",2.0,1,10000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92985/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2800,September,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92984/sublet
+Room,Sublet Room Rent,"Bakshibazar, Lalbag",,1,8000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92925/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92917/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3800,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92884/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92872/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92871/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,5000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92870/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2100,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92869/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2700,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92868/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92867/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2400,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92866/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92865/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92864/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92863/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92861/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3300,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92860/sublet
+Room,Sublet Room Rent,"Palashi, Lalbag",,1,6000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92859/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2250,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92737/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92732/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92731/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2300,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92729/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92728/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92727/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2450,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92726/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92725/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2100,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92724/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1954,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92711/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92509/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,2500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92508/family
+Flat,Family House Rent,"Palashi, Lalbag",2.0,1,10000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92507/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92506/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92504/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2256,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92503/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92502/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92501/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,11000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92500/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92489/bachelor
+Seat,Bachelor Seat Rent,"Old Dhaka, Lalbag",1.0,1,2000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92416/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92415/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92414/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92413/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3250,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92412/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,5000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92411/hostel
+Seat,Hostel Seat Rent,"Lalbag, Dhaka",,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92410/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2300,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92406/family
+Flat,Family House Rent,"Azimpur, Lalbag",2.0,1,11000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92405/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92404/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,12000,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92403/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,13000,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92382/family
+Flat,Family House Rent,"Old Dhaka, Lalbag",1.0,1,6000,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92374/sublet
+Room,Sublet Room Rent,"Sadarghat, Lalbag",,1,5000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92361/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92227/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3350,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92226/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92225/family
+Room,Family Room Rent,"Lalbag, Dhaka",1.0,1,6000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92224/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2100,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92222/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,1666,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92211/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3180,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92210/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2600,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92209/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92193/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92189/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2300,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92142/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3600,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92140/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6000,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92139/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6500,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92138/family
+Flat,Family House Rent,"Palashi, Lalbag",2.0,1,9500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92137/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1750,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92136/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2650,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92135/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92134/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92062/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,6000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92026/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92024/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92023/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3250,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92022/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92021/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3020,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/92020/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91989/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2650,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91952/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,7000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91902/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,3500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91900/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2700,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91898/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,6000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91897/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91895/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2350,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91894/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91893/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2850,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91892/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91890/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91889/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2400,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91888/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,2650,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91887/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91886/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91885/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2700,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91884/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2500,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91883/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,7000,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91736/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,5500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91735/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91733/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2700,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91732/family
+Flat,Family Flat Rent,"Lalbag, Dhaka",3.0,1,12500,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91613/family
+Flat,Family House Rent,"Azimpur, Lalbag",3.0,3,10500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91611/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3180,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91610/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91609/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,7500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91608/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2050,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91607/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,7000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91606/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91605/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91603/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2275,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91602/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91601/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,7000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91600/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,7000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91599/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,6500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91598/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91597/family
+Flat,Family House Rent,"Lalbag, Dhaka",3.0,2,16000,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91596/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,7500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91595/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,7500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91409/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91408/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,6000,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91407/family
+Flat,Family Flat Rent,"Azimpur, Lalbag",2.0,1,13000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91406/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2750,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91405/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2400,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91326/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91325/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3750,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91324/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,8000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91323/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91322/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91321/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91320/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91319/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91170/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,7000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91169/sublet
+Seat,Sublet Seat Rent,"Lalbag, Dhaka",,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91168/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,7000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91165/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2700,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91164/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1700,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91094/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91076/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2300,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91067/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91066/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,9000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91065/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,3600,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91064/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3750,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91063/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91062/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,10500,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91046/family
+Room,Family Room Rent,"Azimpur, Lalbag",1.0,1,11000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91045/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1700,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91044/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91043/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91042/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/91041/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2950,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90925/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1800,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90913/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3600,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90911/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90910/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90908/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3630,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90907/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2350,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90905/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,12000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90904/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90889/bachelor
+Room,Bachelor Room Rent,"Rosulbag, Lalbag",1.0,1,5000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90887/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,7100,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90780/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,5500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90705/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90700/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2800,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90695/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90694/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90693/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3400,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90692/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90691/sublet
+Room,Sublet Room Rent,"Old Dhaka, Lalbag",,1,7000,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90636/family
+Flat,Family Flat Rent,"Lalbag, Dhaka",1.0,1,8000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90546/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90545/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,1800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90542/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2166,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90537/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90536/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,2700,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90534/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2400,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90533/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90532/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,5500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90514/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2300,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90312/bachelor
+Seat,Bachelor Seat Rent,"Old Dhaka, Lalbag",1.0,1,1650,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90307/sublet
+Seat,Sublet Seat Rent,"Azimpur, Lalbag",,1,4200,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90238/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3600,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90232/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2333,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90231/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,10500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90230/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3075,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90229/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3700,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90228/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3350,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90227/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2800,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90226/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,7000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90225/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90073/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,8000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90068/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3350,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90061/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3150,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90060/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90058/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90057/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3700,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90055/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2400,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90054/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2350,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90052/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,4500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/90051/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3100,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89936/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,3125,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89935/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2350,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89934/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3020,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89933/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2300,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89932/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,2,15000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89919/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89918/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89917/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89915/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89914/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,2,15000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89912/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89911/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2200,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89910/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,7000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89909/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4470,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89746/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89745/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89744/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,11000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89743/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1850,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89671/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3900,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89670/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3400,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89560/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89558/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89556/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89547/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3450,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89545/sublet
+Seat,Sublet Seat Rent,"Lalbag, Dhaka",,1,3600,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89543/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89542/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,3150,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89434/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3500,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89433/family
+Flat,Family House Rent,"Azimpur, Lalbag",3.0,2,15500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89432/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,2,15000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89431/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,10000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89430/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3050,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89429/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2250,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89428/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3400,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89427/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2800,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89426/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,5000,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89425/family
+Flat,Family House Rent,"Lalbag, Dhaka",1.0,1,7000,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89212/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,4500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89211/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2250,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89210/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3250,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89209/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2400,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89208/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2300,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89207/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,7000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89206/sublet
+Seat,Sublet Seat Rent,"Lalbag, Dhaka",,1,2800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89205/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89087/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89086/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89085/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2333,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89084/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,5000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89083/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89082/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2230,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89081/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89079/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89078/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,10200,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89073/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,8000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/89072/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3250,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88943/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2150,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88942/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1800,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88941/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88940/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88939/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2740,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88938/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2450,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88937/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2740,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88936/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88935/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88934/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88933/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2700,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88932/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2200,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88931/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88930/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88929/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,2800,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88787/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,4200,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88786/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,7000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88785/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2350,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88782/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,5000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88781/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88742/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1800,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88727/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88712/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3050,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88673/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88672/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88671/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1917,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88670/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,6000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88573/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3750,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88572/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88569/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2280,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88568/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88567/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,2,15000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88566/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88565/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,2100,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88564/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2400,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88563/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2900,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88561/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2300,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88419/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2300,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88418/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88417/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88416/bachelor
+Flat,Bachelor Flat Rent,"Azimpur, Lalbag",1.0,1,5000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88415/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88414/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,8000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88413/bachelor
+Seat,Bachelor Seat Rent,"Amligola, Lalbag",1.0,1,1784,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88412/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,2750,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88411/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,5000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88410/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,5000,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88409/sublet
+Room,Sublet Room Rent,"Palashi, Lalbag",,1,7000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88264/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3600,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88263/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88257/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88256/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88168/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88164/family
+Flat,Family Flat Rent,"Lalbag, Dhaka",2.0,1,10000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88159/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88157/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88155/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88153/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2650,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88151/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2130,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/88106/family
+Flat,Family House Rent,"Rosulbag, Lalbag",2.0,2,10500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87998/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,8000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87997/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,2150,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87994/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2350,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87993/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2700,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87992/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2100,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87991/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87990/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87988/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87987/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,3050,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87982/family
+Flat,Family House Rent,"Amligola, Lalbag",2.0,1,12000,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87875/family
+Flat,Family House Rent,"Azimpur, Lalbag",4.0,4,32000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87787/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87786/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2700,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87785/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2300,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87651/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,9000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87650/sublet
+Seat,Sublet Seat Rent,"Lalbag, Dhaka",,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87649/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,6000,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87648/family
+Flat,Family House Rent,"Palashi, Lalbag",2.0,1,11000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87647/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2800,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87646/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,8000,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87645/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87279/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,4500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87271/bachelor
+Room,Bachelor Room Rent,"Old Dhaka, Lalbag",1.0,1,6000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87137/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87136/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1600,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87135/family
+Room,Family Room Rent,"Lalbag, Dhaka",1.0,1,6500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87047/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1850,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87036/family
+Flat,Family House Rent,"Palashi, Lalbag",2.0,1,10000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87033/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1850,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/87000/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,5000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86998/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86997/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86996/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86995/family
+Flat,Family House Rent,"Rosulbag, Lalbag",2.0,1,10000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86980/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86862/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2800,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86861/bachelor
+Room,Bachelor Room Rent,"Rosulbag, Lalbag",1.0,1,7500,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86760/family
+Flat,Family House Rent,"Azimpur, Lalbag",3.0,2,22000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86636/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86635/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,12000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86633/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,June,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86632/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,7500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86631/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86630/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86629/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86628/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2200,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86627/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86626/family
+Room,Family Room Rent,"Lalbag, Dhaka",1.0,1,8500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86624/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86535/family
+Flat,Family House Rent,"Azimpur, Lalbag",2.0,2,23000,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86534/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,6500,June,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86532/sublet
+Room,Sublet Room Rent,"Old Dhaka, Lalbag",,1,6000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86531/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3650,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86530/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4500,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86529/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,8500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86528/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,5000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86527/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,2750,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86526/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86525/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86523/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4000,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86417/family
+Flat,Family House Rent,"Azimpur, Lalbag",1.0,1,6500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86416/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,1840,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86410/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86408/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2200,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86407/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86406/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,7000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86405/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86404/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86381/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86249/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86248/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,12000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86247/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,5000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86246/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1800,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86240/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,7500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86239/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2230,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86238/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2674,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86237/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86236/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86235/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,5000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86234/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86233/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86231/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2350,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86132/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,3050,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86131/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2800,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86130/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,7500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86129/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86128/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86127/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3350,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86126/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86125/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86124/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2300,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86121/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2740,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86119/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2200,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86118/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,4500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86115/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86114/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86049/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86018/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3300,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86017/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3350,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86016/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86015/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86013/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3500,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86011/sublet
+Seat,Sublet Seat Rent,"Azimpur, Lalbag",,1,3600,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86010/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2250,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/86009/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85857/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,7000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85856/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85855/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,8000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85854/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,2,15000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85852/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2600,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85741/bachelor
+Flat,Bachelor House Rent,"Old Dhaka, Lalbag",1.0,1,6000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85726/office
+Room,Office Unit Rent,"Palashi, Lalbag",,1,10000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85506/family
+Flat,Family House Rent,"Rosulbag, Lalbag",2.0,2,13000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85442/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,9000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85441/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,8000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85440/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2650,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85353/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,7300,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85352/family
+Room,Family Room Rent,"Lalbag, Dhaka",1.0,1,6000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85351/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85350/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85349/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1920,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85348/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2750,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85347/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1900,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85261/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,3100,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85260/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,June,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85259/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,10000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85258/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2350,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85257/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,8500,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85255/family
+Flat,Family House Rent,"Azimpur, Lalbag",2.0,1,11000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85114/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85113/family
+Flat,Family House Rent,"Lalbag, Dhaka",3.0,2,19000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85112/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3750,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85111/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2700,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85110/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2050,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85109/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85108/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2800,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85107/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2200,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85106/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85105/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,2500,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85104/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,11250,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85103/family
+Flat,Family House Rent,"Lalbag, Dhaka",1.0,1,6000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/85003/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,3050,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84996/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84995/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84994/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2450,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84993/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3900,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84992/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84991/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84990/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84989/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3250,June,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84987/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,5000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84986/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,3300,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84983/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2250,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84982/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84856/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84855/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3800,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84854/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,8000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84853/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1700,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84852/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84844/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3900,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84836/sublet
+Seat,Sublet Seat Rent,"Azimpur, Lalbag",,1,3600,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84835/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2900,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84833/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1850,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84832/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84831/family
+Flat,Family House Rent,"Lalbag, Dhaka",1.0,1,14000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84716/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,13000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84491/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,5000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84490/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84488/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84487/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3625,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84483/family
+Flat,Family House Rent,"Lalbag, Dhaka",3.0,2,14000,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84475/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,July,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84325/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84324/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2400,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84323/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,2000,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84322/family
+Flat,Family House Rent,"Rosulbag, Lalbag",2.0,1,12000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84321/sublet
+Seat,Sublet Seat Rent,"Lalbag, Dhaka",,1,2500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84320/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2200,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84319/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84318/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84317/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84316/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,4500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84253/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,7000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84206/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84205/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84204/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2600,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84203/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,10200,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84202/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84201/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84200/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,9300,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84194/family
+Flat,Family House Rent,"Lalbag, Dhaka",1.0,1,7000,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84193/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84192/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2250,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84191/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84190/family
+Flat,Family House Rent,"Lalbag, Dhaka",1.0,1,7000,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84063/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,12000,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84062/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84060/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3200,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84059/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,7000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84058/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,11000,April,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84057/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,4500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84056/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1800,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84054/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,5000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84047/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2650,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84043/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2300,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84042/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84041/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84040/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2700,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84039/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,7000,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84038/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,7000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84037/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/84036/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2200,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83904/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83903/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3400,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83900/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2740,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83898/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83894/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,5000,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83893/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83892/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83891/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,9000,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83890/family
+Flat,Family House Rent,"Azimpur, Lalbag",2.0,1,10000,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83889/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,8500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83887/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,4800,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83793/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2200,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83792/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6500,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83791/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,4000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83695/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,5750,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83651/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,1900,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83538/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1800,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83537/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83536/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83535/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83533/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,7000,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83531/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6500,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83526/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,4500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83335/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83334/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2100,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83333/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,7000,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83332/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,6500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83331/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/83330/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,6500,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82949/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,6000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82940/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2300,April,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82938/sublet
+Room,Sublet Room Rent,"Amligola, Lalbag",,1,4500,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82937/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82936/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3850,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82935/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3050,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82934/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,7000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82933/family
+Flat,Family House Rent,"Lalbag, Dhaka",1.0,1,8500,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82932/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,2,20000,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82931/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82930/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2400,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82929/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4000,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82928/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82927/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,7000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82926/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2356,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82788/family
+Flat,Family House Rent,"Amligola, Lalbag",2.0,2,12000,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82787/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,12000,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82786/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,3800,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82785/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2150,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82784/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82783/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2800,April,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82782/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,8500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82781/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82661/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,6000,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82660/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82659/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82658/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,4500,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82657/family
+Flat,Family House Rent,"Azimpur, Lalbag",2.0,1,11000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82656/bachelor
+Room,Bachelor Room Rent,"Rosulbag, Lalbag",1.0,1,5000,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82655/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,4000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82654/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2650,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82653/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2400,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82652/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3700,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82651/bachelor
+Flat,Bachelor House Rent,"Azimpur, Lalbag",2.0,2,13300,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82650/family
+Flat,Family House Rent,"Azimpur, Lalbag",3.0,2,19000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82649/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3500,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82648/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,8500,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82545/sublet
+Room,Sublet Room Rent,"Old Dhaka, Lalbag",,1,6000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82499/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2800,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82409/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82408/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2334,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82407/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,10000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82390/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3700,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82389/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1900,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82388/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82310/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82308/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2100,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82306/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82171/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2100,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82169/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82168/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,6000,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82167/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,10500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82089/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,5000,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82088/family
+Room,Family Room Rent,"Old Dhaka, Lalbag",1.0,1,8000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82087/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2530,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82086/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/82084/sublet
+Seat,Sublet Seat Rent,"Azimpur, Lalbag",,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81964/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81963/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81962/family
+Flat,Family House Rent,"Azimpur, Lalbag",1.0,1,10000,April,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81961/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81960/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2150,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81936/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,5000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81928/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2700,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81927/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,5000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81860/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2250,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81859/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2275,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81858/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2100,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81857/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81856/family
+Flat,Family House Rent,"Azimpur, Lalbag",2.0,1,11000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81854/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,3175,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81853/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81852/family
+Flat,Family House Rent,"Azimpur, Lalbag",4.0,2,35000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81706/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2400,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81673/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,10200,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81672/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81669/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,7500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81668/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3200,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81667/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,4000,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81666/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,4000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81665/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3450,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81664/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3600,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81597/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2300,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81596/family
+Room,Family Room Rent,"Lalbag, Dhaka",1.0,1,8000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81595/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3230,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81594/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2700,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81593/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81586/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,5500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81585/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3300,April,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81583/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,7000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81470/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3020,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81469/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81468/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81467/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2800,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81466/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3100,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81465/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2300,April,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81463/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,7000,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81462/family
+Flat,Family House Rent,"Azimpur, Lalbag",2.0,1,13000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81461/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81326/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81323/sublet
+Seat,Sublet Seat Rent,"Azimpur, Lalbag",,1,3700,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81322/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3350,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81321/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81320/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81271/family
+Flat,Family House Rent,"Palashi, Lalbag",3.0,1,16000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81270/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81269/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1990,April,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81268/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81267/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2500,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81161/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,11500,May,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81160/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81159/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81158/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,11000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81141/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81140/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81139/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,9500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81045/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,6000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81044/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2440,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81043/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2750,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81042/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2700,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/81041/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80954/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2700,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80953/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80952/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2280,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80783/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1800,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80782/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3625,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80781/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2800,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80780/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2400,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80779/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,12000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80778/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3700,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80777/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80776/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80730/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2100,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80729/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2063,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80728/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2600,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80727/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,2700,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80726/family
+Flat,Family House Rent,"Lalbag, Dhaka",1.0,1,7000,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80707/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,7000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80698/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,4000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80697/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2316,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80696/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3100,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80695/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2800,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80694/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1600,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80603/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1600,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80600/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2875,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80464/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1954,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80462/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2240,March,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80461/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,6000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80460/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80459/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1600,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80458/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3300,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80457/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1700,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80451/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80385/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80384/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2800,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80264/family
+Flat,Family Flat Rent,"Lalbag, Dhaka",2.0,1,10000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80263/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3300,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80262/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80261/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,6200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80260/bachelor
+Flat,Bachelor House Rent,"Azimpur, Lalbag",2.0,2,13000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80259/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80258/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80257/family
+Flat,Family House Rent,"Amligola, Lalbag",2.0,1,12000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80256/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2040,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80255/sublet
+Seat,Sublet Seat Rent,"Palashi, Lalbag",,1,3400,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80095/bachelor
+Flat,Bachelor House Rent,"Azimpur, Lalbag",1.0,1,8500,March,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80092/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,8500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80091/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4250,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80088/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4400,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80081/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80077/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2700,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80076/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3250,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80075/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2150,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80074/family
+Room,Family Room Rent,"Lalbag, Dhaka",2.0,1,10000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80073/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80071/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80070/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3900,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/80069/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,2800,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79971/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2780,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79970/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3350,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79969/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2300,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79968/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3750,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79967/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,3100,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79902/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2600,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79900/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,2250,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79899/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2800,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79897/bachelor
+Room,Bachelor Room Rent,"Nawabganj, Lalbag",1.0,1,5250,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79890/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2450,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79866/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79833/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1800,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79830/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79785/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79784/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3350,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79700/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2935,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79699/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79696/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,7000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79695/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,5500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79694/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79693/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79692/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79691/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2450,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79690/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,7000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79689/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79688/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79687/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79686/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,10000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79685/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,6000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79684/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,8000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79678/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79621/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,March,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79520/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,5000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79409/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1200,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79391/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79359/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79357/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1850,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79356/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,8000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79353/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79351/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2550,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79237/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2450,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79236/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,5500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79234/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79233/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1800,March,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79232/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,6000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79231/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79230/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,2200,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79229/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1950,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79167/sublet
+Seat,Sublet Seat Rent,"Azimpur, Lalbag",,1,2500,March,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79094/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,5000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79092/bachelor
+Seat,Bachelor Seat Rent,"Old Dhaka, Lalbag",1.0,1,2750,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79027/bachelor
+Room,Bachelor Room Rent,"Palashi, Lalbag",1.0,1,5500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79026/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79025/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,7000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79024/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3450,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79023/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,3000,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79022/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,13500,April,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79021/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,7000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79020/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2420,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79018/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,7500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79017/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79016/bachelor
+Room,Bachelor Room Rent,"Bakshibazar, Lalbag",1.0,1,10000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/79015/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78873/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78727/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78726/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2300,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78725/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,6900,March,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78724/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,6000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78722/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78707/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,February,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78706/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,5500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78705/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78704/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,3350,April,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78703/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2650,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78609/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78608/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3350,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78607/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78606/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78605/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2167,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78604/family
+Flat,Family House Rent,"Old Dhaka, Lalbag",2.0,1,11000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78474/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78473/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78471/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,3500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78470/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4000,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78466/family
+Flat,Family House Rent,"Lalbag, Dhaka",1.0,1,6500,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78465/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,11500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78464/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2800,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78463/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2800,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78462/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2350,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78461/family
+Flat,Family House Rent,"Azimpur, Lalbag",2.0,2,18000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78460/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,8340,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78459/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78458/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2700,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78457/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,12000,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78456/family
+Flat,Family Flat Rent,"Lalbag, Dhaka",1.0,1,16000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78455/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,2000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78454/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1770,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78321/family
+Flat,Family House Rent,"Old Dhaka, Lalbag",2.0,1,12000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78320/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3100,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78319/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78318/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,7000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78317/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2300,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78316/family
+Flat,Family House Rent,"Palashi, Lalbag",2.0,1,14000,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78315/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,13200,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78314/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,March,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78313/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78312/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2167,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78310/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,3450,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78308/family
+Flat,Family House Rent,"Azimpur, Lalbag",2.0,1,15000,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78180/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,2,14000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78154/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78153/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78152/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2830,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78151/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78150/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2750,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78149/family
+Flat,Family House Rent,"Azimpur, Lalbag",2.0,1,8000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78148/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78146/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/78102/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1700,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77989/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,13000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77987/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3050,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77986/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77985/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,1760,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77983/family
+Flat,Family House Rent,"Rosulbag, Lalbag",1.0,1,12000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77982/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77981/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77877/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2833,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77875/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2333,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77874/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,3000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77873/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3100,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77872/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,2800,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77870/bachelor
+Room,Bachelor Room Rent,"Palashi, Lalbag",1.0,1,4600,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77761/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2650,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77760/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77759/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77758/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2700,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77748/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2200,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77747/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2400,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77746/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3600,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77699/sublet
+Room,Sublet Room Rent,"Amligola, Lalbag",,1,6500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77690/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77604/bachelor
+Seat,Bachelor Seat Rent,"Old Dhaka, Lalbag",1.0,1,2600,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77577/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77576/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77573/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3200,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77572/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2020,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77495/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,2800,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77468/sublet
+Room,Sublet Room Rent,"Rosulbag, Lalbag",,1,4500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77405/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1666,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77404/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77403/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3100,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77343/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77341/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3400,February,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77340/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,5500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77339/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77338/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2750,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77249/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,5500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77248/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2850,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77247/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3350,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77246/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,3150,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77245/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,4200,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77244/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2750,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77242/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,2500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77186/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77167/bachelor
+Flat,Bachelor House Rent,"Azimpur, Lalbag",1.0,1,2250,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77096/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,4500,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77094/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,12000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77093/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77091/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77048/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,8000,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77047/family
+Flat,Family House Rent,"Azimpur, Lalbag",3.0,2,22000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77046/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2020,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77045/family
+Flat,Family House Rent,"Bakshibazar, Lalbag",1.0,1,13000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/77043/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,5500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76917/bachelor
+Flat,Bachelor House Rent,"Azimpur, Lalbag",1.0,1,3500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76846/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,7000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76845/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2750,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76844/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4000,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76843/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,2,12000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76842/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76841/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76839/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,8000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76838/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3850,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76837/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,4000,February,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76834/sublet
+Room,Sublet Room Rent,"Amligola, Lalbag",,1,7000,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76738/family
+Flat,Family House Rent,"Sadarghat, Lalbag",2.0,2,11000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76737/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76736/bachelor
+Seat,Bachelor Seat Rent,"Old Dhaka, Lalbag",1.0,1,3500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76735/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76733/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,9000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76728/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76630/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,2700,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76627/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1800,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76626/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2040,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76624/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1700,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76504/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76475/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,3100,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76474/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76473/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,3500,March,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76471/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,7000,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76470/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,2,14000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76469/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76468/family
+Flat,Family House Rent,"Amligola, Lalbag",2.0,2,12000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76281/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76280/bachelor
+Flat,Bachelor House Rent,"Lalbag, Dhaka",2.0,1,8000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76278/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76277/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76276/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1250,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76273/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76272/bachelor
+Flat,Bachelor House Rent,"Lalbag, Dhaka",1.0,1,2000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76271/sublet
+Seat,Sublet Seat Rent,"Lalbag, Dhaka",,1,3500,February,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76270/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6500,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76244/family
+Flat,Family House Rent,"Lalbag, Dhaka",3.0,3,35000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76243/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76242/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1800,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76215/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1600,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76214/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,3400,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76212/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,1900,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76211/bachelor
+Flat,Bachelor House Rent,"Azimpur, Lalbag",1.0,1,2100,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/76210/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3700,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75979/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75971/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2800,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75951/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3100,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75932/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75928/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3350,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75926/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75924/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,7000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75921/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3350,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75920/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75919/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1800,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75918/bachelor
+Seat,Bachelor Seat Rent,"Amligola, Lalbag",1.0,1,2300,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75917/bachelor
+Flat,Bachelor House Rent,"Azimpur, Lalbag",1.0,1,2500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75916/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3100,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75907/bachelor
+Flat,Bachelor Flat Rent,"Lalbag, Dhaka",1.0,1,5000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75904/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,5000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75843/bachelor
+Flat,Bachelor Apartment Rent,"Azimpur, Lalbag",1.0,1,4350,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75842/sublet
+Seat,Sublet Seat Rent,"Azimpur, Lalbag",,1,5500,February,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75839/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6000,March,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75838/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,5000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75771/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,5000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75738/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75725/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2100,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75724/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75722/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,12000,February,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75712/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,10000,February,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75711/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,7000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75709/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1800,January,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75707/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,7000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75624/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,15500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75589/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1667,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75588/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75586/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,3464,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75585/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,2,21000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75584/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,January,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75583/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,7000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75582/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,6100,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75452/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2300,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75451/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75450/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2600,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75449/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75412/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75411/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,8000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75410/sublet
+Seat,Sublet Seat Rent,"Lalbag, Dhaka",,1,2800,February,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75408/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75407/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2650,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75406/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,5200,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75371/family
+Flat,Family House Rent,"Lalbag, Dhaka",3.0,3,35000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75369/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75368/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2700,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75366/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,7000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75365/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3700,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75364/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75275/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2675,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75274/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,February,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75273/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,6650,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75272/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2400,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75191/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1800,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75190/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,7500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75189/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,5000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75186/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75108/family
+Flat,Family Flat Rent,"Azimpur, Lalbag",2.0,2,15000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75021/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/75000/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2100,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74999/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2700,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74928/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1957,February,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74919/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3050,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74911/family
+Flat,Family Flat Rent,"Azimpur, Lalbag",2.0,1,11000,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74910/family
+Flat,Family House Rent,"Lalbag, Dhaka",4.0,2,25000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74855/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74807/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,2250,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74801/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3300,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74800/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2170,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74799/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74798/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74797/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74795/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,January,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74794/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,7500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74793/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3150,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74687/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2700,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74684/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1840,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74683/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74682/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,3000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74681/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3800,January,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74605/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,5000,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74601/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,1,12000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74600/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74599/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2550,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74598/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,3000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74597/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74595/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74594/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2420,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74593/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3160,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74430/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2800,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74428/family
+Flat,Family Flat Rent,"Azimpur, Lalbag",2.0,2,12500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74427/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2800,January,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74426/sublet
+Room,Sublet Room Rent,"Nawabganj, Lalbag",,1,6500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74425/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74424/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74423/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,2500,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74422/bachelor
+Room,Bachelor Room Rent,"Palashi, Lalbag",1.0,1,2700,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74421/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,6500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74419/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2700,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74417/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3375,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74416/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1667,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74415/bachelor
+Room,Bachelor Room Rent,"Rosulbag, Lalbag",1.0,1,8100,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74414/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74413/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2700,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74307/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74306/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,8000,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74236/family
+Flat,Family Flat Rent,"Lalbag, Dhaka",2.0,2,12000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74235/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1840,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74234/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2830,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74233/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,3500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74232/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74231/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74230/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74229/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,6000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74228/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74227/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,3500,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74135/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,2700,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74134/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74133/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1800,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74131/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,3100,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74011/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74010/bachelor
+Seat,Bachelor Seat Rent,"Amligola, Lalbag",1.0,1,2600,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74009/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2650,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74008/family
+Flat,Family House Rent,"Lalbag, Dhaka",3.0,2,16000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74007/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2200,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74006/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74004/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2270,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74003/family
+Flat,Family House Rent,"Azimpur, Lalbag",2.0,2,12500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74001/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2650,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/74000/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,5000,January,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73836/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,7500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73835/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73833/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73832/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2800,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73831/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,3500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73830/bachelor
+Room,Bachelor Room Rent,"Amligola, Lalbag",1.0,1,5000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73829/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2650,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73806/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1280,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73805/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73804/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2630,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73803/family
+Flat,Family Flat Rent,"Lalbag, Dhaka",2.0,1,10000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73802/bachelor
+Flat,Bachelor Flat Rent,"Azimpur, Lalbag",2.0,1,12000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73801/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73799/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73798/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,4000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73718/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2800,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73717/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3150,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73716/family
+Flat,Family House Rent,"Rosulbag, Lalbag",2.0,1,12000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73715/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,8500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73643/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2100,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73625/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73410/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73409/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73369/family
+Flat,Family Flat Rent,"Old Dhaka, Lalbag",3.0,3,30000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73368/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1800,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73367/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1500,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73366/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4250,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73365/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73364/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2870,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73254/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2740,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73252/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73251/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,5500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73249/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,7000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73248/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,2800,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73247/family
+Flat,Family House Rent,"Azimpur, Lalbag",2.0,2,12000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73246/sublet
+Seat,Sublet Seat Rent,"Azimpur, Lalbag",,1,6000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73048/sublet
+Seat,Sublet Seat Rent,"Azimpur, Lalbag",,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73047/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73046/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73045/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,4500,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73035/family
+Flat,Family House Rent,"Lalbag, Dhaka",3.0,2,22000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/73032/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72941/family
+Flat,Family Flat Rent,"Azimpur, Lalbag",2.0,1,10000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72876/sublet
+Seat,Sublet Seat Rent,"Azimpur, Lalbag",,1,4000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72745/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,5000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72742/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2644,January,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72740/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,10000,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72739/family
+Flat,Family House Rent,"Lalbag, Dhaka",3.0,2,18000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72738/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72737/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72734/bachelor
+Seat,Bachelor Seat Rent,"Amligola, Lalbag",1.0,1,3000,January,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72733/sublet
+Room,Sublet Room Rent,"Amligola, Lalbag",,1,8000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72590/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2100,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72586/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72585/bachelor
+Seat,Bachelor Seat Rent,"Amligola, Lalbag",1.0,1,2600,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72584/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72567/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2333,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72395/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2700,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72394/family
+Flat,Family Flat Rent,"Lalbag, Dhaka",2.0,2,12000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72310/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72297/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,2,12000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72295/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,9000,January,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72294/bachelor
+Room,Bachelor Room Rent,"Rosulbag, Lalbag",1.0,1,6000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72293/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1990,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72292/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72291/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2700,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72290/bachelor
+Room,Bachelor Room Rent,"Azimpur, Lalbag",1.0,1,6000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72289/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,6000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72288/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2050,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72287/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2000,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72182/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,9000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72123/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72122/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3200,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72121/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,7000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72120/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2600,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72119/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,1500,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72118/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,5100,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72117/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72116/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72115/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1900,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72114/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2450,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/72113/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2400,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71989/family
+Flat,Family Flat Rent,"Azimpur, Lalbag",2.0,2,16000,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71988/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,2,9000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71987/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,4000,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71986/family
+Flat,Family House Rent,"Old Dhaka, Lalbag",2.0,1,8500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71985/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2644,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71984/bachelor
+Flat,Bachelor House Rent,"Azimpur, Lalbag",1.0,1,10000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71983/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,10000,January,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71982/sublet
+Room,Sublet Room Rent,"Old Dhaka, Lalbag",,1,5000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71981/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,7000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71899/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2444,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71898/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,1700,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71896/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2870,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71895/family
+Room,Family Room Rent,"Lalbag, Dhaka",1.0,1,7000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71781/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71682/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2850,November,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71671/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71670/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71669/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,5000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71668/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,November,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71667/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3800,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71527/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71526/bachelor
+Flat,Bachelor House Rent,"Azimpur, Lalbag",1.0,1,10000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71524/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1860,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71523/family
+Flat,Family Flat Rent,"Amligola, Lalbag",2.0,1,12000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71522/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71521/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71339/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71338/bachelor
+Room,Bachelor Room Rent,"Rosulbag, Lalbag",1.0,1,6500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71337/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71335/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,5500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71334/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,6600,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71277/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71275/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2200,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71274/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3750,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71272/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2800,November,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71271/family
+Flat,Family House Rent,"Lalbag, Dhaka",1.0,1,10000,January,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71251/sublet
+Room,Sublet Room Rent,"Rosulbag, Lalbag",,1,8500,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71101/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,7000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71100/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71099/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,2400,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71098/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,9000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71097/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,8500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71096/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,5000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71032/bachelor
+Seat,Bachelor Seat Rent,"Rosulbag, Lalbag",1.0,1,3400,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71031/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,5000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71030/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71029/bachelor
+Seat,Bachelor Seat Rent,"Amligola, Lalbag",1.0,1,2600,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71028/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/71027/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,6000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70979/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70914/family
+Flat,Family Flat Rent,"Lalbag, Dhaka",2.0,2,10500,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70912/family
+Flat,Family Flat Rent,"Lalbag, Dhaka",2.0,1,12000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70911/bachelor
+Seat,Bachelor Seat Rent,"Bakshibazar, Lalbag",1.0,1,3000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70910/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70909/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3250,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70908/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,10500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70907/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70906/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70905/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3600,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70891/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,3300,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70797/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3250,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70793/bachelor
+Flat,Bachelor House Rent,"Old Dhaka, Lalbag",1.0,1,6000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70718/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,2000,November,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70712/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70711/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2400,November,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70710/sublet
+Room,Sublet Room Rent,"Amligola, Lalbag",,1,5500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70709/bachelor
+Room,Bachelor Room Rent,"Lalbag, Dhaka",1.0,1,6000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70243/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2600,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70242/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,1850,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70241/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2500,November,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70240/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,8500,November,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70239/sublet
+Seat,Sublet Seat Rent,"Azimpur, Lalbag",,1,3600,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70238/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,7500,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70237/family
+Flat,Family House Rent,"Lalbag, Dhaka",2.0,2,15000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70236/bachelor
+Room,Bachelor Room Rent,"Palashi, Lalbag",1.0,1,9000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70235/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2100,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70234/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2800,November,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70103/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,2800,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70102/family
+Flat,Family Flat Rent,"Azimpur, Lalbag",3.0,2,24000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70099/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,3500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70098/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,4000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70097/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2700,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70096/sublet
+Room,Sublet Room Rent,"Lalbag, Dhaka",,1,5500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70095/bachelor
+Seat,Bachelor Seat Rent,"Palashi, Lalbag",1.0,1,2500,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70094/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,2700,November,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70093/bachelor
+Seat,Bachelor Seat Rent,"Lalbag, Dhaka",1.0,1,5000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70092/bachelor
+Seat,Bachelor Seat Rent,"Azimpur, Lalbag",1.0,1,2175,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70091/sublet
+Room,Sublet Room Rent,"Azimpur, Lalbag",,1,8000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70090/sublet
+Room,Sublet Room Rent,"Amligola, Lalbag",,1,4000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/lalbag/70076/bachelor

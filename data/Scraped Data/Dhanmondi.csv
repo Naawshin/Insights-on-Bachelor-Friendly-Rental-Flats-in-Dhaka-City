@@ -1,0 +1,1212 @@
+Rent_Type,Title,Location,Bedrooms,Bathrooms,Rent,Availability_Month,Gender,Property_URL
+Room,Bachelor Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,5500,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/95288/family
+Room,Family Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,4500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/95278/bachelor
+Flat,Bachelor Flat Rent,"Zigatola, Dhanmondi",1.0,1,5000,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/95259/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",2.0,2,18000,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/95249/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,1,15500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/95240/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,12000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/95212/sublet
+Room,Sublet Room Rent,"West Dhanmondi, Dhanmondi",,1,6600,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/95181/bachelor
+Room,Bachelor Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,4500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/95178/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3100,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/95153/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,8500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/95071/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3300,September,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/95046/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4200,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94973/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94954/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2100,September,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94884/bachelor
+Seat,Bachelor Seat Rent,"Sobhanbagh, Dhanmondi",1.0,1,4200,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94857/office
+Room,Office Apartment Rent,"Dhanmondi, Dhaka",,4,78000,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94848/family
+Flat,Family Flat Rent,"Dhanmondi 15, Dhanmondi",2.0,1,15500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94767/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,3300,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94700/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,7000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94681/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4800,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94643/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,7500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94629/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,3100,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94627/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,7500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94619/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94615/bachelor
+Room,Bachelor Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,10000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94604/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",2.0,1,7000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94570/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2800,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94569/bachelor
+Seat,Bachelor Seat Rent,"Sobhanbagh, Dhanmondi",1.0,1,4000,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94568/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,8500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94562/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,9000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94560/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,5200,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94558/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94557/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,6250,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94555/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94551/bachelor
+Room,Bachelor Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,5500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94542/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,5000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94540/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94455/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3600,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94439/family
+Flat,Family Flat Rent,"Zigatola, Dhanmondi",2.0,1,15000,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94433/sublet
+Room,Sublet Room Rent,"Dhanmondi 15, Dhanmondi",,1,6100,October,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94355/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3600,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94258/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94256/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,1500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94241/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94240/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2800,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94230/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94218/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,6200,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94214/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3100,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94203/family
+Flat,Family Flat Rent,"Dhanmondi 32, Dhanmondi",2.0,2,30000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94079/bachelor
+Seat,Bachelor Seat Rent,"Elephant Road, Dhanmondi",1.0,1,2500,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/94044/family
+Room,Family Room Rent,"Dhanmondi, Dhaka",1.0,1,12000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93996/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93839/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,13500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93818/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2200,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93816/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3200,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93815/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93813/family
+Flat,Family Flat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,11500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93811/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,11000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93808/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93806/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3900,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93801/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2500,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93789/family
+Flat,Family Flat Rent,"Dhanmondi, Dhaka",3.0,4,55000,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93658/sublet
+Room,Sublet Room Rent,"Elephant Road, Dhanmondi",,1,8500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93463/bachelor
+Flat,Bachelor Flat Rent,"Dhanmondi 15, Dhanmondi",3.0,2,16000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93455/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,2600,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93438/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93433/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3250,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93423/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,9000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93418/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93417/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,9000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93409/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93408/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,8000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93407/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93402/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93400/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93399/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93396/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,2800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93392/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93231/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3200,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93227/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2900,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93222/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,11000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93221/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93084/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93078/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93069/sublet
+Room,Sublet Room Rent,"Dhanmondi 32, Dhanmondi",,1,10500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93068/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,8000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93066/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3300,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/93064/family
+Flat,Family House Rent,"Dhanmondi 15, Dhanmondi",3.0,3,50000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92923/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3000,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92914/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,1,10000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92910/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,9000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92906/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",3.0,1,3200,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92828/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92827/family
+Flat,Family House Rent,"Shangkar, Dhanmondi",2.0,1,10000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92826/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92805/bachelor
+Flat,Bachelor House Rent,"Zigatola, Dhanmondi",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92745/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,6000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92709/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92700/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,2500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92689/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3850,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92577/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,9000,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92569/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,8500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92568/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2600,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92485/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92339/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,8000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92338/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92325/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2800,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92196/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3600,September,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92194/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,6000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92182/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,7000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92177/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92086/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2000,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92073/family
+Flat,Family Flat Rent,"Zigatola, Dhanmondi",1.0,1,11000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92068/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92066/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3200,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92065/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3200,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92064/family
+Flat,Family Flat Rent,"Dhanmondi, Dhaka",3.0,2,19000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92063/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3750,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/92058/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91959/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",3.0,3,30000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91958/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,6500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91955/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,10000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91951/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,2800,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91950/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,7000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91948/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,7000,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91947/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,12000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91943/bachelor
+Flat,Bachelor Flat Rent,"Zigatola, Dhanmondi",2.0,2,23000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91850/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91697/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91672/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,3500,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91669/family
+Flat,Family Flat Rent,"Zigatola, Dhanmondi",2.0,1,18000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91562/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,9500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91545/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",1.0,1,11000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91539/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,3000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91537/bachelor
+Seat,Bachelor Seat Rent,"Sobhanbagh, Dhanmondi",1.0,1,4500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91534/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91533/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,6000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91452/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91397/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3500,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91394/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,7500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91393/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,9000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91391/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3600,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91390/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,7500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91249/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,7500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91248/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91235/bachelor
+Seat,Bachelor Seat Rent,"Sobhanbagh, Dhanmondi",1.0,1,3700,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91232/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2200,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91229/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,7000,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91228/family
+Flat,Family House Rent,"West Dhanmondi, Dhanmondi",2.0,2,22000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91227/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2000,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91098/family
+Flat,Family Flat Rent,"Zigatola, Dhanmondi",3.0,2,18500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91095/office
+Room,Office Room Rent,"Zigatola, Dhanmondi",,1,18000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91090/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91087/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,10000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/91056/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,10000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90967/bachelor
+Seat,Bachelor Seat Rent,"Sobhanbagh, Dhanmondi",1.0,1,4000,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90965/family
+Flat,Family Flat Rent,"Dhanmondi 15, Dhanmondi",3.0,3,25000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90837/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90788/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90786/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,6000,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90781/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",4.0,4,100000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90779/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3700,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90778/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,9500,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90777/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,7500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90775/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",3.0,2,24000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90772/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",3.0,1,3200,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90704/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2100,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90629/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90460/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2600,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90450/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,8000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90449/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90442/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,7000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90348/bachelor
+Room,Bachelor Room Rent,"West Dhanmondi, Dhanmondi",2.0,2,7000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90305/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4300,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90300/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3600,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90295/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2333,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90294/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4700,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90291/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,10000,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90286/family
+Flat,Family Flat Rent,"Shangkar, Dhanmondi",2.0,2,18000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90272/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90180/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90140/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,2500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90139/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4000,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90138/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,2,17000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90137/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,5000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90134/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90131/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3650,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90122/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,3500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90121/family
+Flat,Family Flat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,14000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90118/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,12000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90117/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,10000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90116/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90109/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,15000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90108/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3600,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90104/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,14500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/90053/bachelor
+Room,Bachelor Room Rent,"Elephant Road, Dhanmondi",1.0,1,8000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89806/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,2800,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89686/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89667/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3300,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89666/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89660/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,10000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89659/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2650,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89658/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89656/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,2850,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89647/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89646/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,2600,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89645/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89644/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,6000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89559/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89491/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,6500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89489/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,6000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89488/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89487/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89485/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,10000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89327/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,6000,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89326/sublet
+Seat,Sublet Seat Rent,"Zigatola, Dhanmondi",,1,3100,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89325/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89323/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89271/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,4000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89270/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89269/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,10000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89268/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89259/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3200,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89252/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3200,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89152/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,6000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89136/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2333,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89058/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3600,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89057/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89054/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2150,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89053/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,10000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89052/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/89050/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,3300,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88869/sublet
+Room,Sublet Room Rent,"Shangkar, Dhanmondi",,1,9000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88864/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88853/family
+Flat,Family Apartment Rent,"Sobhanbagh, Dhanmondi",3.0,4,35000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88806/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,7700,July,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88634/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4800,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88633/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,5000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88629/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,2833,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88627/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3300,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88626/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,1800,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88623/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3500,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88619/family
+Flat,Family Flat Rent,"Dhanmondi, Dhaka",2.0,2,23000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88607/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,4500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88488/bachelor
+Room,Bachelor Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,3100,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88360/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2600,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88359/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,4500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88357/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",4.0,4,100000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88351/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3250,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88347/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4000,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88248/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",3.0,3,40000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88207/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,4500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88205/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,7500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88204/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88203/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,10000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88196/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88192/office
+Room,Office Flat Rent,"Dhanmondi, Dhaka",,3,48000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88071/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,10000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88066/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3100,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88062/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",2.0,2,22000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/88061/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,5000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87949/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,4000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87948/bachelor
+Flat,Bachelor House Rent,"Zigatola, Dhanmondi",2.0,2,19000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87942/bachelor
+Room,Bachelor Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,5500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87903/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87898/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3900,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87897/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,8500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87700/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87688/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,7000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87687/bachelor
+Seat,Bachelor Seat Rent,"Sobhanbagh, Dhanmondi",1.0,1,4500,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87662/family
+Flat,Family House Rent,"Sobhanbagh, Dhanmondi",3.0,3,27000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87644/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87620/family
+Flat,Family Flat Rent,"Dhanmondi, Dhaka",2.0,2,18000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87605/sublet
+Room,Sublet Room Rent,"Dhanmondi 15, Dhanmondi",,1,7000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87602/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,8500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87599/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3200,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87507/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,2,22000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87505/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,2,12000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87497/hostel
+Seat,Hostel Seat Rent,"Dhanmondi, Dhaka",,1,4000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87494/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,10000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87425/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3650,July,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87303/bachelor
+Seat,Bachelor Seat Rent,"Sobhanbagh, Dhanmondi",1.0,1,5500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87300/bachelor
+Room,Bachelor Room Rent,"Sobhanbagh, Dhanmondi",1.0,1,12000,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87284/family
+Flat,Family Flat Rent,"Elephant Road, Dhanmondi",2.0,2,35000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87182/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,11000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87040/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/87038/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86919/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2200,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86860/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86856/bachelor
+Room,Bachelor Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,6500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86855/sublet
+Room,Sublet Room Rent,"Dhanmondi 15, Dhanmondi",,1,10000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86854/sublet
+Room,Sublet Room Rent,"Shangkar, Dhanmondi",,1,8000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86853/bachelor
+Room,Bachelor Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,9000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86683/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86681/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86672/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,11000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86671/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,2,20000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86644/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2700,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86634/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86564/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,8500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86562/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3800,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86561/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3750,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86560/bachelor
+Flat,Bachelor House Rent,"Zigatola, Dhanmondi",1.0,1,9000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86460/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86453/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,6500,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86449/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",2.0,2,18500,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86327/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86256/family
+Flat,Family Flat Rent,"Elephant Road, Dhanmondi",2.0,2,35000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86250/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2500,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86243/office
+Room,Office Room Rent,"Zigatola, Dhanmondi",,1,18000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86241/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,2900,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86232/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,7000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86085/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86069/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,6000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86067/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,7700,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86065/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86064/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,3500,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86059/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86057/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,8000,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86056/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",3.0,2,22500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/86050/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,9000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85956/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,8500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85954/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,4000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85953/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",2.0,2,21000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85952/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85724/family
+Flat,Family Flat Rent,"Elephant Road, Dhanmondi",3.0,3,45000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85642/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,1,16000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85637/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2700,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85636/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4800,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85635/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,6500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85631/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85621/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,11000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85500/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85487/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,8500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85484/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,6500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85483/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85403/family
+Flat,Family Flat Rent,"Dhanmondi 15, Dhanmondi",6.0,8,100000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85343/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,10000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85342/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",2.0,2,18000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85339/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,7000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85042/family
+Flat,Family House Rent,"Sobhanbagh, Dhanmondi",3.0,3,27000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85040/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,5000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85038/bachelor
+Flat,Bachelor House Rent,"Sobhanbagh, Dhanmondi",1.0,1,4700,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85032/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,12000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85029/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2490,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85028/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85026/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,10000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/85019/family
+Flat,Family Apartment Rent,"West Dhanmondi, Dhanmondi",4.0,4,47000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84997/family
+Flat,Family House Rent,"Elephant Road, Dhanmondi",4.0,5,60000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84985/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2500,May,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84984/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,6000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84972/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,5000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84969/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84851/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84834/sublet
+Room,Sublet Room Rent,"Dhanmondi 15, Dhanmondi",,1,7500,November,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84708/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,7700,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84707/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3300,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84706/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84604/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,6000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84601/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,6500,May,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84600/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,5000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84599/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4050,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84595/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84593/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,14000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84585/sublet
+Room,Sublet Room Rent,"Dhanmondi 15, Dhanmondi",,1,9000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84558/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84556/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84392/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84391/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4800,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84389/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,9000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84352/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84350/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3800,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84348/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2200,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84255/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,10000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84254/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,6000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84252/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,7700,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84251/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,6800,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84174/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,7000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84171/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3800,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84167/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/84129/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",2.0,1,16500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83986/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,7000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83985/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,6000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83984/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,8000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83983/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2750,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83980/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,1,14000,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83975/family
+Flat,Family House Rent,"West Dhanmondi, Dhanmondi",3.0,3,18000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83856/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83717/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,7000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83710/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2540,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83708/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83692/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,6500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83690/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83689/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3100,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83493/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2833,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83492/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,5500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83491/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83486/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2750,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83485/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,7500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83422/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83418/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2900,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83416/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83308/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83262/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83238/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3500,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83232/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",2.0,2,22500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83229/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,May,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83079/bachelor
+Seat,Bachelor Seat Rent,"Sobhanbagh, Dhanmondi",1.0,1,4800,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83072/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3200,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83070/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83069/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/83068/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82870/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3750,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82855/family
+Flat,Family Flat Rent,"Elephant Road, Dhanmondi",3.0,4,34000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82741/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,8100,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82739/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3750,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82732/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,9000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82585/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82583/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82581/bachelor
+Room,Bachelor Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,6500,May,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82579/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82572/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3700,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82566/office
+Room,Office Floor Rent,"Sobhanbagh, Dhanmondi",,3,200000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82492/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2500,April,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82444/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7500,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82443/family
+Flat,Family House Rent,"Dhanmondi 15, Dhanmondi",2.0,1,16000,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82372/family
+Flat,Family House Rent,"Dhanmondi 15, Dhanmondi",2.0,2,19000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82368/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,3700,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82360/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,April,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82196/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,11000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82194/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82159/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,3300,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82157/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,7500,April,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82085/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3100,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82081/family
+Flat,Family House Rent,"Dhanmondi 15, Dhanmondi",1.0,1,11500,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/82035/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,2,23000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81931/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,5000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81930/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,May,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81731/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,11000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81729/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,6200,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81728/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,1800,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81727/bachelor
+Room,Bachelor Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,9000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81726/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,8000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81722/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3850,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81662/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81661/family
+Flat,Family House Rent,"Shangkar, Dhanmondi",2.0,2,17000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81660/bachelor
+Flat,Bachelor House Rent,"Zigatola, Dhanmondi",1.0,1,10000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81659/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,4000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81568/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,8500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81566/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,5500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81525/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8500,April,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81324/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,9000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81192/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81189/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4000,March,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/81187/sublet
+Room,Sublet Room Rent,"Dhanmondi 15, Dhanmondi",,1,9000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80933/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80889/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2650,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80858/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,1900,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80797/family
+Flat,Family House Rent,"West Dhanmondi, Dhanmondi",1.0,1,7000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80775/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80602/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2400,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80583/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3750,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80574/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80573/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3600,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80572/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,2,22000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80570/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80569/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2800,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80568/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,7000,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80527/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,1,15000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80428/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80427/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,6000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80426/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2700,March,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80424/bachelor
+Seat,Bachelor Seat Rent,"Sobhanbagh, Dhanmondi",1.0,1,4800,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80422/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80421/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80420/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80373/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80252/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3850,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80153/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80099/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80021/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,8000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80018/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,3600,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80017/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/80016/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79910/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,9500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79909/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8100,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79908/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2450,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79840/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3850,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79838/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79629/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79623/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,3800,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79622/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3250,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79619/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2300,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79618/family
+Flat,Family House Rent,"Vuter Goli, Dhanmondi",2.0,2,22000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79613/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,6000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79467/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3100,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79452/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,2300,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79415/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2900,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79399/bachelor
+Flat,Bachelor House Rent,"Zigatola, Dhanmondi",2.0,2,18000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79347/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79319/bachelor
+Seat,Bachelor Seat Rent,"Sobhanbagh, Dhanmondi",1.0,1,5500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79313/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2333,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79283/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,1750,February,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79258/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,3500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79088/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79086/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79085/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,7500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79084/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,7500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/79019/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,9500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78989/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,4500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78973/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,2600,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78968/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78895/bachelor
+Seat,Bachelor Seat Rent,"Sobhanbagh, Dhanmondi",1.0,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78640/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4250,March,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78637/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,4500,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78601/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,8500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78594/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,5000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78579/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,11500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78488/bachelor
+Room,Bachelor Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,3700,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78453/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78445/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,5500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78439/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78219/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,6500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78186/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3750,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78183/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,9000,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78181/family
+Flat,Family House Rent,"West Dhanmondi, Dhanmondi",3.0,3,22000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78147/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2200,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78104/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2700,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78100/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/78008/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2600,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77930/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",2.0,2,16000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77928/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77925/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,1500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77923/bachelor
+Flat,Bachelor House Rent,"Sobhanbagh, Dhanmondi",1.0,1,12000,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77921/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",2.0,2,16000,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77918/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,2,17000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77916/bachelor
+Room,Bachelor Room Rent,"Sobhanbagh, Dhanmondi",1.0,1,10000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77915/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,2900,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77869/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,2500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77867/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2850,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77866/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,2000,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77862/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",2.0,2,15000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77744/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2725,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77742/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2833,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77739/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2800,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77652/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,8000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77617/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2333,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77612/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,8000,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77607/family
+Flat,Family House Rent,"Shangkar, Dhanmondi",2.0,1,10000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77562/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,4000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77496/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4800,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77462/family
+Flat,Family House Rent,"Dhanmondi 15, Dhanmondi",1.0,1,14000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77266/bachelor
+Flat,Bachelor House Rent,"Dhanmondi 15, Dhanmondi",1.0,1,7600,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77184/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77183/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77182/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,9000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77181/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2500,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77179/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",3.0,3,35000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77177/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,4200,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77173/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77172/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77137/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77035/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/77033/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,8000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76936/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,February,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76935/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,5000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76933/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,3600,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76932/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76927/sublet
+Room,Sublet Room Rent,"Dhanmondi 32, Dhanmondi",,1,8000,February,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76727/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,13000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76684/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3100,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76682/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,7000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76681/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,8100,February,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76593/sublet
+Room,Sublet Room Rent,"Dhanmondi 32, Dhanmondi",,1,12000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76513/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,1500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76512/bachelor
+Room,Bachelor Room Rent,"Sobhanbagh, Dhanmondi",1.0,1,9300,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76507/bachelor
+Flat,Bachelor House Rent,"Zigatola, Dhanmondi",2.0,1,6500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76505/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,8500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76503/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,12000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76502/bachelor
+Room,Bachelor Room Rent,"Sobhanbagh, Dhanmondi",1.0,1,9300,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76452/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",1.0,1,13000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76447/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76445/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76443/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,6500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76442/bachelor
+Seat,Bachelor Seat Rent,"Sobhanbagh, Dhanmondi",1.0,1,3250,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76341/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76217/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3100,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76180/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",2.0,2,19000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76179/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2800,February,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76174/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76043/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3300,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76042/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,8000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/76035/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,6500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75984/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2600,February,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75983/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,9000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75982/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,2500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75787/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,1900,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75770/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2150,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75763/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,3000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75759/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3800,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75753/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75740/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3100,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75739/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,1600,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75710/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,7500,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75708/family
+Flat,Family House Rent,"Elephant Road, Dhanmondi",3.0,3,30000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75692/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75621/family
+Flat,Family Flat Rent,"Elephant Road, Dhanmondi",3.0,3,30000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75600/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2200,February,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75598/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,6500,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75597/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",1.0,1,15000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75595/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,9000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75490/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3000,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75372/office
+Room,Office Unit Rent,"Dhanmondi, Dhaka",,2,250000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75214/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,5500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75213/bachelor
+Seat,Bachelor Seat Rent,"Sobhanbagh, Dhanmondi",1.0,1,3130,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75118/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,1900,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75111/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,7000,February,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75109/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,12500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75104/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,5500,January,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75053/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,12000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75048/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/75018/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,4500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74913/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,3600,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74912/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,12000,February,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74844/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,8500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74843/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3250,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74725/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,5500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74718/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2800,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74712/bachelor
+Room,Bachelor Room Rent,"Elephant Road, Dhanmondi",1.0,1,12000,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74675/family
+Flat,Family House Rent,"Dhanmondi 15, Dhanmondi",1.0,1,11500,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74674/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",2.0,2,18500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74671/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74669/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74665/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,7800,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74664/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",3.0,3,22500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74663/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3300,January,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74570/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,5000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74567/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74511/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74477/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2200,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74475/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,5500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74418/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2200,January,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74374/sublet
+Room,Sublet Room Rent,"Dhanmondi 32, Dhanmondi",,1,11500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74369/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,4000,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74277/family
+Flat,Family Flat Rent,"Shangkar, Dhanmondi",3.0,3,18000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74276/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,7500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74275/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,2500,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74165/family
+Flat,Family Flat Rent,"Dhanmondi, Dhaka",2.0,2,22000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74164/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2800,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74161/family
+Room,Family Room Rent,"Dhanmondi, Dhaka",1.0,1,12000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74160/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,3333,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74158/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2600,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74156/bachelor
+Seat,Bachelor Seat Rent,"Sobhanbagh, Dhanmondi",1.0,1,5000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74151/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,3100,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74132/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2350,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74106/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3200,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/74101/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3850,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73986/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73982/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3200,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73878/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73877/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73876/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73635/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73632/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3200,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73630/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,1,22000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73629/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73627/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2490,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73612/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3200,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73609/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73607/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73512/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73508/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,8500,December,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73507/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,8000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73503/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73084/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3600,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73054/bachelor
+Room,Bachelor Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,6500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73053/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,6000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/73052/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,5000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72926/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72920/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,10000,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72804/family
+Flat,Family House Rent,"Shangkar, Dhanmondi",2.0,2,22000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72757/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4200,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72741/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,December,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72730/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,5500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72727/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,5000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72726/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3200,January,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72723/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4700,January,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72722/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,6500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72720/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,2500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72719/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,5000,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72718/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",2.0,2,15000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72717/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,5500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72568/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3200,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72566/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3750,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72429/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3750,January,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72422/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3500,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72421/family
+Flat,Family Flat Rent,"Zigatola, Dhanmondi",2.0,2,18000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72386/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2200,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72385/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72255/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,8000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72254/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,6200,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72253/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,5500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72183/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2900,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72178/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3400,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72176/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3700,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72165/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",3.0,2,5000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72048/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,9000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72046/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/72045/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/71950/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2125,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/71845/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8000,November,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/71804/family
+Flat,Family Flat Rent,"Zigatola, Dhanmondi",2.0,2,18500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/71801/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2600,December,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/71783/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3300,November,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/71748/sublet
+Room,Sublet Room Rent,"Dhanmondi 15, Dhanmondi",,1,8000,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/71657/sublet
+Room,Sublet Room Rent,"Shangkar, Dhanmondi",,1,6000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/71656/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,6500,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/71554/family
+Flat,Family Flat Rent,"Dhanmondi 15, Dhanmondi",2.0,1,15000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/71418/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/71415/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/71414/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2540,December,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/71325/sublet
+Seat,Sublet Seat Rent,"Zigatola, Dhanmondi",,1,2250,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/71186/family
+Flat,Family House Rent,"West Dhanmondi, Dhanmondi",2.0,2,16000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/71184/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/71179/sublet
+Room,Sublet Room Rent,"Dhanmondi 32, Dhanmondi",,1,10000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/71020/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,6000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70952/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,3250,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70949/family
+Flat,Family Flat Rent,"Zigatola, Dhanmondi",3.0,2,18500,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70947/sublet
+Seat,Sublet Seat Rent,"Zigatola, Dhanmondi",,1,7500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70897/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70809/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,10000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70808/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,3000,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70807/family
+Flat,Family House Rent,"Dhanmondi 15, Dhanmondi",3.0,4,34000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70805/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70804/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,8500,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70802/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,1,15000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70801/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,6500,December,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70723/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70719/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,9500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70570/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70569/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,4000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70568/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70565/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,November,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70560/family
+Flat,Family Flat Rent,"Dhanmondi 15, Dhanmondi",2.0,1,13500,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70559/family
+Flat,Family Flat Rent,"Dhanmondi 15, Dhanmondi",2.0,2,11500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70549/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,10500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70548/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70545/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70544/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70543/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70542/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3550,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70343/family
+Room,Family Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,7000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70320/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,7000,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70202/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",3.0,4,25000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70200/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,6800,December,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70088/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3800,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70084/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2200,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70082/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,2800,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/70080/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69933/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2600,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69932/bachelor
+Room,Bachelor Room Rent,"Elephant Road, Dhanmondi",1.0,1,8500,November,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69921/family
+Flat,Family Flat Rent,"Dhanmondi, Dhaka",3.0,2,22500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69919/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,3200,December,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69908/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,12000,November,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69796/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69714/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69659/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,November,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69574/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3600,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69568/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,3000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69565/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3200,November,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69500/sublet
+Room,Sublet Room Rent,"Dhanmondi 32, Dhanmondi",,1,12000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69334/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69331/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2700,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69330/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3750,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69328/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,7800,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69326/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,4000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69300/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,7000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69276/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69192/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69170/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69086/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,3300,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69083/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3000,November,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/69082/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,12500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68934/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2150,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68912/bachelor
+Seat,Bachelor Seat Rent,"Elephant Road, Dhanmondi",1.0,1,3600,November,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68873/family
+Flat,Family Flat Rent,"Shangkar, Dhanmondi",2.0,1,9500,November,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68872/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,1,15000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68869/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3400,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68792/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2900,November,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68725/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3600,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68717/family
+Flat,Family Flat Rent,"Dhanmondi, Dhaka",3.0,3,32000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68714/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68445/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,1765,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68444/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2650,November,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68308/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,13500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68305/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,2300,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68303/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,2700,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68302/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,6000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68156/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,10000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68033/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2540,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/68029/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2540,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67994/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,5500,November,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67873/family
+Flat,Family Flat Rent,"Dhanmondi 15, Dhanmondi",3.0,4,33000,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67662/family
+Flat,Family Flat Rent,"West Dhanmondi, Dhanmondi",3.0,3,25000,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67637/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",2.0,2,15000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67633/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,7000,October,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67622/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,10000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67568/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,4200,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67567/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3800,November,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67565/family
+Flat,Family Flat Rent,"Zigatola, Dhanmondi",2.0,2,18000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67465/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,7500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67463/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3200,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67462/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,4500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67461/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,5000,October,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67458/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,5000,November,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67365/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4200,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67266/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,8000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67265/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2600,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67264/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2400,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67263/family
+Flat,Family Flat Rent,"Zigatola, Dhanmondi",1.0,1,10000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67207/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67161/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,4200,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67159/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3700,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67008/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2333,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67006/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/67001/family
+Flat,Family Flat Rent,"West Dhanmondi, Dhanmondi",3.0,3,37000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/66999/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/66971/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,1500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/66970/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,November,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/66857/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,3000,October,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/66849/sublet
+Room,Sublet Room Rent,"Shangkar, Dhanmondi",,1,9000,October,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/66847/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4700,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/66771/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3200,October,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/66702/bachelor
+Room,Bachelor Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,6000,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/66692/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,1,12000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/66301/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3200,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/66297/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,1,15000,November,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/66296/family
+Flat,Family Flat Rent,"West Dhanmondi, Dhanmondi",4.0,3,22000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/66295/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3200,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/66294/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3200,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/66016/family
+Flat,Family House Rent,"West Dhanmondi, Dhanmondi",2.0,2,15000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65978/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65977/bachelor
+Room,Bachelor Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,7000,November,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65962/family
+Flat,Family House Rent,"Shangkar, Dhanmondi",2.0,1,14000,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65882/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",3.0,4,50000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65823/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,4600,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65821/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,6500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65813/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65669/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2650,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65668/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,5500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65665/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,2700,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65633/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,2235,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65501/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,2235,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65495/family
+Flat,Family Flat Rent,"Vuter Goli, Dhanmondi",2.0,2,20000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65371/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,October,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65364/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,8000,October,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65359/sublet
+Room,Sublet Room Rent,"Dhanmondi 15, Dhanmondi",,1,8500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65352/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65351/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65247/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8200,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65246/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4050,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65244/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,10000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65241/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65215/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,2650,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65162/family
+Flat,Family Apartment Rent,"Dhanmondi, Dhaka",3.0,3,35000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65130/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,7500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65129/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2800,October,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65092/sublet
+Room,Sublet Room Rent,"West Dhanmondi, Dhanmondi",,1,5800,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65046/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,8000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/65030/bachelor
+Seat,Bachelor Seat Rent,"Elephant Road, Dhanmondi",1.0,1,3750,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64981/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,5500,October,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64968/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,6500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64862/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64861/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,9000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64707/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,7500,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64705/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",2.0,2,19000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64704/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64703/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,9500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64655/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,8000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64557/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64542/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64503/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,6500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64416/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64350/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,6000,October,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64283/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,17000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64234/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,6000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64117/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7000,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/64100/sublet
+Room,Sublet Room Rent,"West Dhanmondi, Dhanmondi",,1,5800,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63922/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2040,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63828/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63813/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,9500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63625/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2400,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63567/sublet
+Room,Sublet Room Rent,"West Dhanmondi, Dhanmondi",,1,8000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63566/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63564/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3300,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63474/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63468/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2400,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63467/sublet
+Room,Sublet Room Rent,"Dhanmondi 32, Dhanmondi",,1,10000,October,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63466/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,5500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63465/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63464/family
+Flat,Family Flat Rent,"Zigatola, Dhanmondi",2.0,2,11000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63459/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3300,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63458/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,10000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63356/sublet
+Room,Sublet Room Rent,"Dhanmondi 15, Dhanmondi",,1,6000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63355/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,3400,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63354/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,8000,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63296/family
+Flat,Family Flat Rent,"Dhanmondi 15, Dhanmondi",3.0,4,33000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63159/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,10000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63051/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2200,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63050/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2875,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63033/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,8000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/63032/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,6340,September,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62810/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62809/bachelor
+Flat,Bachelor Flat Rent,"Dhanmondi, Dhaka",2.0,3,23000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62804/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,9000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62802/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62721/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62720/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2600,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62719/family
+Flat,Family Flat Rent,"Dhanmondi 15, Dhanmondi",3.0,2,22000,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62627/family
+Flat,Family House Rent,"Shangkar, Dhanmondi",3.0,2,19000,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62626/family
+Flat,Family House Rent,"Dhanmondi 15, Dhanmondi",1.0,2,6500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62625/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,2,15000,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62623/family
+Flat,Family Flat Rent,"Dhanmondi, Dhaka",3.0,2,17000,October,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62622/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,5000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62555/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,7500,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62526/family
+Flat,Family House Rent,"West Dhanmondi, Dhanmondi",3.0,3,22000,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62447/family
+Flat,Family House Rent,"West Dhanmondi, Dhanmondi",3.0,2,25000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62409/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,7000,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62406/family
+Flat,Family Flat Rent,"Shangkar, Dhanmondi",3.0,3,18000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62400/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62396/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,2700,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62231/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4700,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62229/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2900,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62227/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62226/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62186/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2333,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62185/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62184/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62181/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,8000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/62179/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61865/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,5500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61862/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61852/family
+Flat,Family House Rent,"Dhanmondi 15, Dhanmondi",2.0,2,11000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61686/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61684/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3200,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61681/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,2800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61679/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,4400,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61676/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61641/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2250,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61638/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61637/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,8500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61522/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,7500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61519/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2200,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61518/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3000,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61415/family
+Flat,Family House Rent,"Shangkar, Dhanmondi",2.0,2,21000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61414/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2600,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61410/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2650,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61278/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2900,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61180/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,6500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61013/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,6000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61012/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2200,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61011/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2800,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61007/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",3.0,2,18000,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/61006/sublet
+Room,Sublet Room Rent,"West Dhanmondi, Dhanmondi",,1,8500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60890/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,11000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60880/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,5000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60878/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60876/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,3000,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60870/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,4000,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60782/family
+Room,Family Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,5800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60668/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3400,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60538/family
+Flat,Family Flat Rent,"Dhanmondi, Dhaka",3.0,3,30000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60534/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60533/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60375/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60367/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2200,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60364/family
+Flat,Family Flat Rent,"West Dhanmondi, Dhanmondi",4.0,3,22000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60361/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,9000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60359/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60357/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60356/family
+Flat,Family Flat Rent,"Dhanmondi, Dhaka",3.0,3,30000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60331/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60238/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3400,July,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60237/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60107/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,3800,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60103/family
+Flat,Family Flat Rent,"Dhanmondi 15, Dhanmondi",3.0,4,30000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/60099/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,6500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59949/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59948/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,9500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59734/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,1800,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59707/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3200,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59693/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3330,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59680/family
+Room,Family Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,8000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59678/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2900,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59677/family
+Flat,Family Flat Rent,"Shangkar, Dhanmondi",2.0,2,15000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59674/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,7500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59618/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3750,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59615/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3550,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59520/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59414/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,10000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59412/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,5000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59371/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,6500,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59282/family
+Flat,Family House Rent,"Shangkar, Dhanmondi",3.0,3,36000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59080/bachelor
+Flat,Bachelor House Rent,"Zigatola, Dhanmondi",1.0,1,2900,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59073/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,8500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59069/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4200,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59056/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,3500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59053/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,2,26000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59028/bachelor
+Flat,Bachelor Flat Rent,"Dhanmondi 15, Dhanmondi",2.0,1,13000,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/59014/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,1,8000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58918/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,10000,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58917/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",2.0,2,18000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58808/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58807/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58806/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58778/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,6000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58775/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,6000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58750/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58680/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2400,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58679/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,3400,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58541/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,8500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58421/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,6000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58418/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,3400,June,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58353/sublet
+Room,Sublet Room Rent,"West Dhanmondi, Dhanmondi",,1,10500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58352/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,5500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58258/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58251/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,2800,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58250/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58247/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,6400,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58152/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,5000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58147/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2500,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58093/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58089/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2600,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58086/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3650,July,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58084/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,5000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58073/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,1,16000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/58071/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,7500,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57986/family
+Flat,Family Flat Rent,"Shangkar, Dhanmondi",3.0,4,45000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57980/family
+Flat,Family Flat Rent,"Shangkar, Dhanmondi",2.0,2,16000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57978/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,6000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57975/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57890/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57861/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,4000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57847/family
+Flat,Family Flat Rent,"Shangkar, Dhanmondi",3.0,3,18000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57843/sublet
+Room,Sublet Room Rent,"Zigatola, Dhanmondi",,1,7500,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57842/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,10500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57838/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,7500,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57836/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,10000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57835/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57834/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57832/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2700,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57830/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57828/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,5000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57825/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57787/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,3200,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57737/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,7000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57665/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2700,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57657/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,9300,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57335/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2300,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57334/family
+Flat,Family Flat Rent,"Dhanmondi, Dhaka",3.0,2,25000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57333/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2900,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57315/family
+Flat,Family Flat Rent,"Zigatola, Dhanmondi",3.0,2,20000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57309/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3750,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57298/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57228/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,8900,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57123/family
+Flat,Family Flat Rent,"Dhanmondi 15, Dhanmondi",3.0,4,30000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/57038/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2800,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56875/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56874/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,4800,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56865/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,12000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56808/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2550,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56807/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2150,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56772/sublet
+Room,Sublet Room Rent,"Dhanmondi 15, Dhanmondi",,1,18000,May,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56753/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,4500,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56478/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,4000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56420/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2350,May,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56419/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,10000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56387/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56339/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,10000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56335/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,2200,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56334/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3400,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56333/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,1667,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56332/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2550,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56264/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4250,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56252/bachelor
+Flat,Bachelor House Rent,"Dhanmondi 15, Dhanmondi",2.0,1,13500,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56138/family
+Flat,Family Flat Rent,"Zigatola, Dhanmondi",2.0,2,18000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56137/bachelor
+Flat,Bachelor Flat Rent,"Zigatola, Dhanmondi",2.0,2,16000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56134/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56132/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,7000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56106/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2900,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56072/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/56070/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,8000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55958/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,7500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55956/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,7000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55955/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55867/family
+Flat,Family Flat Rent,"Dhanmondi, Dhaka",3.0,3,25000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55866/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55864/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55861/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3100,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55859/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2420,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55738/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,12500,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55737/sublet
+Room,Sublet Room Rent,"Dhanmondi 15, Dhanmondi",,1,7500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55736/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,10000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55710/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,1500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55709/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3125,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55626/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,8500,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55625/family
+Flat,Family Flat Rent,"Shangkar, Dhanmondi",2.0,1,10000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55485/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2700,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55481/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2500,May,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55464/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55463/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55461/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,9000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55460/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3800,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55459/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55458/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,3600,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55457/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,3200,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55309/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,11500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55307/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,3200,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55305/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,10000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55304/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55303/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,May,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55301/sublet
+Room,Sublet Room Rent,"Dhanmondi 15, Dhanmondi",,1,10000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55300/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2700,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55299/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2750,June,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55297/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,5700,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55217/family
+Flat,Family House Rent,"Dhanmondi, Dhaka",2.0,1,16000,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55108/family
+Flat,Family Apartment Rent,"Dhanmondi, Dhaka",3.0,3,45000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/55107/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,12500,May,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54887/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4150,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54886/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4500,May,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54884/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4200,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54841/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54840/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54839/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54838/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,5500,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54832/family
+Flat,Family Flat Rent,"Dhanmondi 15, Dhanmondi",3.0,2,20000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54447/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2900,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54413/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54330/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,8200,June,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54303/sublet
+Room,Sublet Room Rent,"Shangkar, Dhanmondi",,1,7500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54211/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,2500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54196/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54193/sublet
+Room,Sublet Room Rent,"Dhanmondi 15, Dhanmondi",,1,5000,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54191/family
+Flat,Family Flat Rent,"Zigatola, Dhanmondi",2.0,2,18000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54188/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,2400,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54077/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/54075/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,May,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53951/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,10000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53949/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,2500,April,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53947/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 32, Dhanmondi",1.0,1,4200,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53916/family
+Flat,Family House Rent,"Zigatola, Dhanmondi",2.0,1,11000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53848/bachelor
+Seat,Bachelor Seat Rent,"West Dhanmondi, Dhanmondi",1.0,1,2500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53844/bachelor
+Room,Bachelor Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,3400,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53836/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 15, Dhanmondi",1.0,1,8000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53835/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,5000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53753/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,5400,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53751/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2600,April,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53746/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,5500,April,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53744/sublet
+Room,Sublet Room Rent,"Shangkar, Dhanmondi",,1,7500,May,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53631/sublet
+Seat,Sublet Seat Rent,"Dhanmondi 32, Dhanmondi",,1,6000,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53606/family
+Flat,Family Flat Rent,"Dhanmondi 15, Dhanmondi",2.0,2,13000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53599/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,12000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53577/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2600,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53576/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3000,April,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53470/sublet
+Room,Sublet Room Rent,"Shangkar, Dhanmondi",,1,10000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53411/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,8500,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53410/family
+Flat,Family Flat Rent,"Zigatola, Dhanmondi",2.0,2,18000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53320/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,2500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53283/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53257/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,11200,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53149/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4600,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53146/family
+Flat,Family Flat Rent,"Zigatola, Dhanmondi",2.0,2,17000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53145/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,7500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53144/bachelor
+Seat,Bachelor Seat Rent,"Shangkar, Dhanmondi",1.0,1,4000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53141/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,7500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53133/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,5500,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53119/sublet
+Room,Sublet Room Rent,"Rabindra Sorubar, Dhanmondi",,1,11000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53094/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/53093/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,8000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52984/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi 15, Dhanmondi",1.0,1,2500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52983/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3833,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52982/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52908/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52782/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,9000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52780/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,10500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52779/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,7500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52777/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2750,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52693/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,3750,April,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52691/bachelor
+Room,Bachelor Room Rent,"Dhanmondi 32, Dhanmondi",1.0,1,12000,April,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52689/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,6000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52688/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52547/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,8000,April,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52532/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,10000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52494/bachelor
+Flat,Bachelor House Rent,"Zigatola, Dhanmondi",1.0,1,7000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52493/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52492/sublet
+Room,Sublet Room Rent,"Dhanmondi, Dhaka",,1,9000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52391/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,7400,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52388/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4150,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52386/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,5600,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52199/family
+Room,Family Room Rent,"Dhanmondi, Dhaka",1.0,1,8000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52194/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,4000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52192/bachelor
+Room,Bachelor Room Rent,"Dhanmondi, Dhaka",1.0,1,7000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52092/bachelor
+Seat,Bachelor Seat Rent,"Dhanmondi, Dhaka",1.0,1,4000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52084/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2700,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52082/bachelor
+Room,Bachelor Room Rent,"Zigatola, Dhanmondi",1.0,1,8500,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/52057/family
+Flat,Family Flat Rent,"Dhanmondi, Dhaka",4.0,4,45000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/51981/bachelor
+Seat,Bachelor Seat Rent,"Elephant Road, Dhanmondi",1.0,1,4000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/51915/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,4000,April,Female,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/51911/bachelor
+Room,Bachelor Room Rent,"West Dhanmondi, Dhanmondi",1.0,1,10000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/51907/bachelor
+Room,Bachelor Room Rent,"Shangkar, Dhanmondi",1.0,1,8500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/51906/bachelor
+Seat,Bachelor Seat Rent,"Zigatola, Dhanmondi",1.0,1,2600,March,Male,https://www.thetolet.com/bd/property-post/dhaka/dhanmondi/51866/bachelor

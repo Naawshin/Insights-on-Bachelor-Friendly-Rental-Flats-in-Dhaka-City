@@ -1,0 +1,752 @@
+Rent_Type,Title,Location,Bedrooms,Bathrooms,Rent,Availability_Month,Gender,Property_URL
+Flat,Bachelor Flat Rent,"Nakhal Para, Tejgaon",1,1,2600,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/100655/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/100639/bachelor
+Room,Bachelor Room Rent,"Nakhal Para, Tejgaon",1,1,7500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/100570/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3200,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/100476/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,2800,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/100474/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/100472/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,1,8000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/100372/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,1450,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/100345/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3700,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/100167/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3700,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/100164/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3700,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/100162/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,9000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/99955/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2900,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/99827/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,5000,October,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/99823/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,9000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/99734/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,4000,October,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/99612/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,2500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/99153/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3200,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98940/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,2600,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98810/bachelor
+Room,Bachelor Room Rent,"Arjatpara, Tejgaon",1,1,12000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98793/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4250,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98786/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3800,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98784/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3250,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98760/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3250,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98759/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3350,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98732/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98730/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98624/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98423/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,1450,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98360/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,9000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98357/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,3500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98250/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3200,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98116/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3500,October,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98115/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98111/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2700,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98110/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/98057/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3333,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/97989/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,2150,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/97935/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3800,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/97929/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,2800,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/97917/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/97818/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,9500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/97779/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3350,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/97620/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,1450,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/97618/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/97609/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,4000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/97592/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,3000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/97470/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,10000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/97324/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/97120/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,4300,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/97119/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/96994/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3350,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/96992/bachelor
+Room,Bachelor Room Rent,"Nakhal Para, Tejgaon",1,1,9600,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/96990/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,1,7500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/96987/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3200,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/96985/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/96692/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3600,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/95925/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/95900/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,2500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/95848/bachelor
+Room,Bachelor Room Rent,"Nakhal Para, Tejgaon",1,1,7500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/95846/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2700,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/95842/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,3000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/95802/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,3400,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/95707/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/94959/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2650,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/94958/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/94891/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/94786/bachelor
+Flat,Bachelor House Rent,"Tejkuni Para, Tejgaon",2,1,10000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/94783/bachelor
+Flat,Bachelor Flat Rent,"Farmgate, Tejgaon",2,1,25000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/94758/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/94670/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2100,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/94625/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/94539/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3800,October,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/94193/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3800,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/94132/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3300,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/94068/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,4000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/93859/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/93845/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,10500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/93809/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,2600,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/93465/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/93439/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4250,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/93432/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/93420/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3050,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/93398/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,10000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/93395/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/93224/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4200,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/93072/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/92919/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,4000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/92760/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/92706/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/92681/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/92661/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/92574/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,10500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/92330/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,1,8000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/92329/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,4000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/92327/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2300,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/92191/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,2700,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/92149/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,2400,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/91882/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3350,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/91880/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/91854/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/91775/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/91698/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/91662/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2250,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/91551/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,11000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/91548/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,10000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/91544/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/91542/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,2600,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/91327/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/91114/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2400,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/91089/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/91054/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/90969/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,8500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/90783/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,1866,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/90672/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,1467,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/90622/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,1,9000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/90273/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,2250,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/90218/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,9000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/90107/bachelor
+Flat,Bachelor House Rent,"Nakhal Para, Tejgaon",2,1,10500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/90102/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/89483/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,7000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/89145/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3700,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/89051/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3400,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/89049/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,1800,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/88812/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/88810/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2850,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/88661/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/88641/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/88637/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,1,8000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/88628/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/88353/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/88246/bachelor
+Seat,Bachelor Seat Rent,"Arjatpara, Tejgaon",1,1,3899,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/88230/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,9500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/87896/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,2600,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/87797/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3200,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/87635/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/87633/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,5000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/87603/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3200,June,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/87395/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,4000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/87391/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3100,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/86921/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/86711/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,10000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/86709/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/86700/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,2100,June,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/86698/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/86697/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,10500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/86696/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3350,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/86693/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/86692/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,2250,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/86484/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/86450/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/86252/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,11500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/86166/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/86086/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3050,June,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/86055/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/86054/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4200,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/85809/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/85634/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/85629/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,1,8000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/85626/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3300,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/85624/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,2700,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/85439/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/85336/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/85334/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/85333/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/85081/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/85036/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/85023/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2900,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/84705/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,9000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/84396/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,2100,May,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/84309/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3100,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/83718/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2470,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/83716/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3100,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/83259/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,13000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/83258/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3260,May,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/83257/bachelor
+Room,Bachelor Room Rent,"Tejgaon, Dhaka",1,1,8500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/83134/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/83034/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,2666,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/83021/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,2600,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/82606/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2440,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/82604/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4000,April,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/82576/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/82573/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3300,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/82490/bachelor
+Room,Bachelor Room Rent,"Nakhal Para, Tejgaon",1,1,9000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/82488/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3600,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/82326/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/82190/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/82165/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,1,12000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/82154/bachelor
+Room,Bachelor Room Rent,"Tejgaon, Dhaka",1,1,11500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/81920/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/81862/bachelor
+Room,Bachelor Room Rent,"Tejgaon, Dhaka",1,1,7000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/81735/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,1,11000,April,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/81734/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2700,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/81717/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,2600,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/81535/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,April,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/81346/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,12000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/81208/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4160,April,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/81200/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,2,16000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/81198/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,2000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/81197/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3600,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/81194/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/81059/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,8000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/81054/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/80805/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,10500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/80804/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/80634/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/80633/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3200,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/80632/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/80631/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2750,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/80630/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,2900,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/80628/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/80581/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,1,8000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/80566/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,1,9500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/80453/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2700,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/80450/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2100,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/80449/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,2700,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/80098/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,9000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/80093/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3111,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/79788/bachelor
+Flat,Bachelor House Rent,"Shukrabad, Tejgaon",1,1,10000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/79708/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,9000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/79540/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/79482/bachelor
+Seat,Bachelor Seat Rent,"Bijoy Soroni, Tejgaon",1,1,4075,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/79474/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/79321/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2850,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/79316/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/78987/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,1,11000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/78897/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3333,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/78896/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/78639/bachelor
+Room,Bachelor Room Rent,"Tejgaon, Dhaka",1,1,6000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/78620/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,8000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/78619/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/78615/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2850,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/78596/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,7700,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/78541/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2800,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/78482/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/78428/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/78101/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,7000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/77926/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/77919/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,2800,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/77914/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/77740/bachelor
+Room,Bachelor Room Rent,"Tejgaon, Dhaka",1,1,4500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/77710/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,2875,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/77609/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/77263/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,11500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/77171/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,2700,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/77146/bachelor
+Room,Bachelor Room Rent,"Tejkuni Para, Tejgaon",1,1,5000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/77133/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,2850,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/77030/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,6000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/77029/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3800,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/77025/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/77023/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/76934/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/76899/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3300,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/76510/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/76440/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/75862/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/75768/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4160,February,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/75765/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2100,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/75764/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3300,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/75211/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4100,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/75210/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,10000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/75209/bachelor
+Room,Bachelor Room Rent,"Tejgaon, Dhaka",1,1,10000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/75208/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/75133/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3100,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/75106/bachelor
+Room,Bachelor Room Rent,"Tejgaon, Dhaka",1,1,12500,January,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/74915/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,2700,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/74710/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,5000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/74708/bachelor
+Flat,Bachelor House Rent,"Shukrabad, Tejgaon",1,1,8500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/74666/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,2600,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/74633/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,8000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/74471/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/74470/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4800,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/74468/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,8000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/74367/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",10,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/74155/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/74154/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,4000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/74153/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/74152/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2700,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/74150/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,3000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/74002/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3056,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/73791/bachelor
+Flat,Bachelor Flat Rent,"Kawran Bazar, Tejgaon",3,1,23000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/73659/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/73656/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,2850,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/73655/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,7000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/73623/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3750,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/73622/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,1375,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/73620/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,1500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/73618/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/73614/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3750,January,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/73506/bachelor
+Seat,Bachelor Seat Rent,"Arjatpara, Tejgaon",1,1,2500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/73445/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,9000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/73258/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,7000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/73083/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3600,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/72924/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/72923/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4200,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/72921/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3100,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/72875/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/72729/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/72728/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,7500,January,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/72213/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/72181/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3500,December,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/72173/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/71951/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/71946/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,1,7500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/71785/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3900,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/71782/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/71621/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,2035,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/71610/bachelor
+Room,Bachelor Room Rent,"Nakhal Para, Tejgaon",1,1,8000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/71250/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3250,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/71217/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,6000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/71215/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/71214/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/71213/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/71212/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,4000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/71017/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,4000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/70945/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/70563/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,6000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/70363/bachelor
+Room,Bachelor Room Rent,"Nakhal Para, Tejgaon",1,1,8000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/70020/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3330,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/69927/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,2600,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/69918/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/69902/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/69901/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,2500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/69712/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,3750,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/69711/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/69564/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/69329/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,5000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/69327/bachelor
+Room,Bachelor Room Rent,"Tejgaon, Dhaka",1,1,6000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/69324/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68936/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2200,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68935/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68868/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,7000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68867/bachelor
+Flat,Bachelor House Rent,"Shukrabad, Tejgaon",1,1,14000,November,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68866/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68716/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,4600,November,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68715/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,3500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68710/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68708/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,8000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68707/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68705/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,10000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68299/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,7500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68298/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,4000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68267/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,8000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68148/bachelor
+Flat,Bachelor Flat Rent,"Farmgate, Tejgaon",3,3,30000,November,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68147/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68144/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3600,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68142/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68028/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3200,November,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/68027/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,8500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/67658/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,10000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/67644/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2800,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/67630/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3050,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/67629/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3165,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/67624/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,7500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/67566/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,2250,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/67418/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/67162/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,3000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/67099/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4800,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/67005/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,8000,October,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/67003/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2800,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/67002/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/66570/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,12000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/66453/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/66452/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,7000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/66431/bachelor
+Room,Bachelor Room Rent,"Tejkuni Para, Tejgaon",1,1,6500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/66430/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,7000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/66429/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,6500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/65844/bachelor
+Room,Bachelor Room Rent,"Nakhal Para, Tejgaon",1,1,10200,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/65627/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,4700,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/65370/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/64983/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,4000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/64979/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,1,7500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/64702/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/64555/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/64290/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/64115/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/63827/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,1700,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/63807/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/63679/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/63476/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,8700,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/63475/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,2000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/63471/bachelor
+Flat,Bachelor Flat Rent,"Tejkuni Para, Tejgaon",1,1,12000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/63469/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3250,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/63280/bachelor
+Flat,Bachelor House Rent,"Nakhal Para, Tejgaon",1,1,7000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/63205/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,5000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62953/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2375,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62819/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62817/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62815/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,12000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62803/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2900,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62764/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,4500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62717/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62715/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,7500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62714/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62713/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3600,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62448/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62398/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62394/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62331/bachelor
+Seat,Bachelor Seat Rent,"Kawran Bazar, Tejgaon",1,1,3500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62330/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,8000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62225/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,1,7500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62221/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,2500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/62180/bachelor
+Room,Bachelor Room Rent,"Tejgaon, Dhaka",1,1,5000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/61704/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,10000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/61703/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,2250,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/61699/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/61698/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,6500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/61364/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,12000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/61216/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,2200,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/61197/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,1,8500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/61004/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2600,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/60999/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/60387/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/60384/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/60383/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/60381/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,9000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/60380/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3333,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/60369/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,13000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/60363/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/60228/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,1800,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/60104/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,2500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/60098/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,8000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/59744/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/59741/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,4000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/59740/bachelor
+Room,Bachelor Room Rent,"Nakhal Para, Tejgaon",1,1,7000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/59739/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2950,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/59736/bachelor
+Seat,Bachelor Seat Rent,"West Rajarbazar, Tejgaon",1,1,3700,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/59675/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3810,July,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/59614/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/59613/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/59072/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,3200,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/58810/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,7000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/58805/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2900,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/58666/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,10000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/58151/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2335,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/58088/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/58085/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,2650,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/58083/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,5000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/58082/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,11000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/58081/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,9500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/57892/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/57889/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/57786/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/57652/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/57651/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,8000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/57650/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/57445/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/57332/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,11000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/57330/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3333,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/57229/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2100,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/57225/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,9000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/57224/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,6500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/57223/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,2550,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/57121/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/57120/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,5250,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/57036/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,6000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/57035/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3810,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/56671/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/56670/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2767,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/56668/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,5250,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/56667/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/56618/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2950,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/56528/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2800,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/56505/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,6800,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/56074/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/55911/bachelor
+Flat,Bachelor Flat Rent,"Farmgate, Tejgaon",1,1,2900,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/55873/bachelor
+Seat,Bachelor Seat Rent,"Kamarbari, Tejgaon",1,1,2300,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/55670/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,4000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/55495/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3600,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/55490/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,2100,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/55246/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,10000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/54893/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/54883/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,10000,May,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/54881/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,1500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/54647/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,10000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/54407/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/54209/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/54207/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4200,May,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/54195/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,2850,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/54102/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,1,3500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/53838/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/53789/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/53630/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,7000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/53629/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,10500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/53628/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/53627/bachelor
+Room,Bachelor Room Rent,"Raja Bazar, Tejgaon",1,1,7000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/53626/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/53616/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/53409/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,9000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/53265/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,6000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/53254/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,9000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/53148/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,2550,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/53103/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/52859/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,8000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/52694/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/51910/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2600,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/51909/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/51905/bachelor
+Seat,Bachelor Seat Rent,"Raja Bazar, Tejgaon",1,1,3333,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/51863/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,9000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/51740/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/51736/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,10000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/51700/bachelor
+Room,Bachelor Room Rent,"Tejgaon, Dhaka",1,1,8000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/51662/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3800,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/51540/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2300,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/51476/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2200,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/51297/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,2266,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/51074/bachelor
+Room,Bachelor Room Rent,"Tejkuni Para, Tejgaon",1,1,8000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/50852/bachelor
+Room,Bachelor Room Rent,"Tejkuni Para, Tejgaon",1,1,10500,April,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/50851/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,5000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/50845/bachelor
+Room,Bachelor Room Rent,"Tejkuni Para, Tejgaon",1,1,9000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/50843/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/50784/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/50662/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/50262/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/50146/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2900,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/49951/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,4100,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/49770/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,11000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/49678/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/49672/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2900,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/49622/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2800,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/49094/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/49093/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/49092/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,5000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/49037/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,8000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/49036/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/49030/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,7000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/48953/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/47849/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,5000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/47847/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,9999,February,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/47831/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,7500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/47618/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/47469/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2800,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/47367/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/47047/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/47042/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,5000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/47041/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2900,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/47008/bachelor
+Seat,Bachelor Seat Rent,"Tejkuni Para, Tejgaon",1,1,3496,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/46987/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2300,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/46703/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,7500,January,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/46563/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,10500,January,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/46390/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,2250,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/46384/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/46383/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,5000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/46346/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,8000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/46285/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/46196/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3347,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/46154/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3300,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/46077/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/46069/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3800,February,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/45805/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/45653/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,5000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/45651/bachelor
+Room,Bachelor Room Rent,"Tejgaon, Dhaka",1,1,10000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/45604/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,5500,January,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/45291/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3250,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/45254/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/44511/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/44507/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2800,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/44504/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/44502/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3100,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/44276/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3300,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/44274/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/44099/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,5000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/44093/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,6000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/44092/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/44091/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3600,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/44088/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",3,2,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/44017/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,7000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/43886/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,5000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/43885/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,11000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/43884/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2800,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/43883/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3200,December,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/43739/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,9000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/43558/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/43010/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,7000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/42973/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,9500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/42859/bachelor
+Room,Bachelor Room Rent,"Nakhal Para, Tejgaon",1,1,6500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/42776/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/42774/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",3,2,4500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/42643/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,11000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/42642/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,4000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/42326/bachelor
+Room,Bachelor Room Rent,"Shukrabad, Tejgaon",1,1,10000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/42318/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",3,2,4500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/42104/bachelor
+Room,Bachelor Room Rent,"Tejgaon, Dhaka",1,1,7000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/42071/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/41746/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/41745/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2833,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/41742/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,10500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/41740/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/41384/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3900,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/41383/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,3500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/41338/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3700,November,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/41048/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2300,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/40873/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2666,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/40356/bachelor
+Room,Bachelor Room Rent,"Tejgaon, Dhaka",1,1,6500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/40143/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,3875,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/40142/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",2,2,2000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/39744/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,6000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/39736/bachelor
+Seat,Bachelor Seat Rent,"Shukrabad, Tejgaon",1,1,2500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/39553/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,3500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/39243/bachelor
+Room,Bachelor Room Rent,"West Rajarbazar, Tejgaon",1,1,10000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/39230/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/39129/bachelor
+Seat,Bachelor Seat Rent,"Nakhal Para, Tejgaon",1,1,3875,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/39048/bachelor
+Room,Bachelor Room Rent,"Kawran Bazar, Tejgaon",1,1,8500,October,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/38111/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,1500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/37888/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/37515/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,9000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/37501/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/37498/bachelor
+Room,Bachelor Room Rent,"Tejgaon, Dhaka",1,1,6000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/37496/bachelor
+Room,Bachelor Room Rent,"Tejgaon, Dhaka",1,1,8000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/37365/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/37174/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/37067/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,5000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/37065/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,11000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/37064/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,5500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/36901/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,6000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/36896/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3100,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/36893/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,2060,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/36890/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,5500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/36889/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3200,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/36888/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,9000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/36551/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/36416/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2900,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/36415/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,10000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/36414/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",4,3,5500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/36247/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",2,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/36246/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2900,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/36237/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/36002/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/35832/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2700,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/35747/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/35745/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,5000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/35689/bachelor
+Room,Bachelor Room Rent,"Tejgaon, Dhaka",1,1,7500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/35675/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,4500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/35478/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2750,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/35466/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",2,2,5000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/35021/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3100,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/35018/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/34769/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,10500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/34558/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/34521/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/34520/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/34519/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3750,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/34518/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3300,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/34517/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",3,2,4500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/33974/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,7500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/33972/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3166,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/33934/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/33932/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2800,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/33410/bachelor
+Seat,Bachelor Seat Rent,"Kawran Bazar, Tejgaon",1,1,2910,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/33392/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2200,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/33390/bachelor
+Room,Bachelor Room Rent,"Kawran Bazar, Tejgaon",1,1,5500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/33389/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,8000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/33388/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,12000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/33387/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/33386/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/33212/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,1500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32716/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32715/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2350,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32714/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32713/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,6000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32710/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,4000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32709/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,5550,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32708/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32707/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2666,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32706/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32705/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32703/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,8000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32603/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,12000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32602/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,9000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32601/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32519/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,9000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32518/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,7500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32517/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,2380,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32516/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,4500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32515/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32511/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32380/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2200,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32378/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,4625,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32377/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,2950,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32376/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2300,July,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32375/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,5500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32309/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,5000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32308/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,6500,June,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32233/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,June,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32232/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/32000/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3300,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31996/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,8000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31995/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,8000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31994/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31990/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31989/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,6000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31988/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",3,2,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31987/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,6000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31956/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2600,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31955/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2250,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31952/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,5000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31950/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,10500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31729/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31728/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,7000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31727/bachelor
+Room,Bachelor Room Rent,"Farmgate, Tejgaon",1,1,7000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31726/bachelor
+Room,Bachelor Room Rent,"Tejgaon, Dhaka",2,1,6000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31725/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31669/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2625,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31639/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",2,1,15000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31638/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31635/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,10500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31634/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2600,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31633/bachelor
+Seat,Bachelor Seat Rent,"Kawran Bazar, Tejgaon",1,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31616/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,6500,June,Anyone,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31614/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,24000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31613/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,24000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31612/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,2300,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31610/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,10500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31609/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon, Dhaka",1,1,2700,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31605/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31604/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3300,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31603/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3300,June,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31602/bachelor
+Seat,Bachelor Seat Rent,"Farmgate, Tejgaon",1,1,3100,June,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31599/bachelor
+Flat,Bachelor House Rent,"Tejgaon, Dhaka",2,1,12000,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/31167/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,0,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/30921/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",2,1,2860,April,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/30861/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,8500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/30498/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,0,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/30261/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,0,January,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/30259/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,8000,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/30256/bachelor
+Flat,Bachelor House Rent,"Kawran Bazar, Tejgaon",2,2,0,December,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/30114/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,0,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/7772/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,0,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/7742/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,0,November,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/7559/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,0,November,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/7473/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,5000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/7472/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,2000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/7302/bachelor
+Flat,Bachelor House Rent,"Tejgaon, Dhaka",1,1,7000,October,Anyone,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/7244/bachelor
+Flat,Bachelor House Rent,"Tejgaon, Dhaka",1,1,0,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/7110/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,0,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/6981/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,0,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/6794/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,0,October,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/6782/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,0,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/6738/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,0,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/6722/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,0,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/6522/bachelor
+Flat,Bachelor House Rent,"Kawran Bazar, Tejgaon",1,1,0,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/6384/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,0,September,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/6383/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,0,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/6382/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,4500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/6380/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,0,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/6371/bachelor
+Flat,Bachelor House Rent,"Kawran Bazar, Tejgaon",1,1,0,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/6335/bachelor
+Flat,Bachelor House Rent,"Kawran Bazar, Tejgaon",2,1,18000,October,Female,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/6310/bachelor
+Flat,Bachelor House Rent,"Kawran Bazar, Tejgaon",3,2,0,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/6302/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",2,1,0,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/6283/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",1,1,0,September,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/6158/bachelor
+Flat,Bachelor House Rent,"Farmgate, Tejgaon",3,3,0,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon/6022/bachelor

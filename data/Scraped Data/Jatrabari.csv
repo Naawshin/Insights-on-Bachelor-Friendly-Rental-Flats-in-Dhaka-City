@@ -1,0 +1,552 @@
+Rent_Type,Title,Location,Bedrooms,Bathrooms,Rent,Availability_Month,Gender,Property_URL
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,2000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/100702/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,600,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/100701/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,7600,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/100188/bachelor
+Room,Bachelor Room Rent,"Matuail, Jatrabari",1,1,3500,November,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/100007/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,3500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/99774/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,1500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/99771/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1700,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/99769/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1970,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/99767/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1970,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/99759/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,1500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/99628/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/99565/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2200,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/99419/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1600,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/99329/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/99134/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1850,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/99076/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,4500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/99075/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,4500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/99035/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,8500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/99033/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/99032/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/99008/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/99006/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2600,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/98934/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",2,1,1700,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/98933/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",2,1,1700,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/98746/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/98745/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,1950,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/98519/bachelor
+Seat,Bachelor Seat Rent,"Dania, Jatrabari",1,1,2100,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/98518/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1850,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/98122/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",2,1,5000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/98026/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2550,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/97855/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,1950,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/97769/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,3000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/97534/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/97480/bachelor
+Room,Bachelor Room Rent,"Mir-Hazirbag, Jatrabari",1,1,5000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/97371/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,1970,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/97215/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/96936/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,3000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/96780/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/95977/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/95555/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,1800,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/95328/bachelor
+Room,Bachelor Room Rent,"Matuail, Jatrabari",1,1,4000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/95167/bachelor
+Flat,Bachelor House Rent,"Jatrabari, Dhaka",1,1,6500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/95143/bachelor
+Flat,Bachelor Flat Rent,"Shonir Akhra, Jatrabari",2,1,7000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/95142/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1600,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/94940/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,3500,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/94664/bachelor
+Flat,Bachelor Flat Rent,"Bibir Bagicha, Jatrabari",1,1,15000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/94595/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/94405/bachelor
+Seat,Bachelor Seat Rent,"Bibir Bagicha, Jatrabari",1,1,1800,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/94404/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,1970,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/94400/bachelor
+Room,Bachelor Room Rent,"Dania, Jatrabari",1,1,6000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/94398/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,2250,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/94394/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2800,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/93715/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,1500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/93561/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,2013,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/93560/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,3250,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/93559/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,1850,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/93558/bachelor
+Flat,Bachelor House Rent,"Rayerbag, Jatrabari",1,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/93556/bachelor
+Seat,Bachelor Seat Rent,"Dania, Jatrabari",1,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/93554/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1600,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/93547/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,5200,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/93482/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/92883/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,1500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/92882/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,1700,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/92740/bachelor
+Room,Bachelor Room Rent,"Dania, Jatrabari",1,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/92739/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/92528/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/92387/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,1970,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/92249/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/92080/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,2600,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/91727/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/91726/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2400,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/91462/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,2400,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/91256/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/91202/bachelor
+Room,Bachelor Room Rent,"Dolairpar, Jatrabari",1,1,5000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/90964/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,7000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/90961/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,4500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/90959/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,1500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/90864/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1767,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/90679/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,6500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/90678/bachelor
+Seat,Bachelor Seat Rent,"Matuail, Jatrabari",1,1,1000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/90480/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/90359/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/90115/bachelor
+Room,Bachelor Room Rent,"Kajla, Jatrabari",1,1,3500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/90113/bachelor
+Room,Bachelor Room Rent,"Sheikhdi, Jatrabari",1,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/89855/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,1500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/89741/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2400,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/89737/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/89736/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,1350,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/89734/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/89596/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1250,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/89591/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,1500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/89348/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2350,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/89344/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,1800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/88947/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,2250,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/88946/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/88818/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,1500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/88716/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/88715/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,1960,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/88693/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,2600,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/88692/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,1700,June,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/87893/bachelor
+Seat,Bachelor Seat Rent,"Dania, Jatrabari",1,1,2000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/87470/bachelor
+Seat,Bachelor Seat Rent,"Bibir Bagicha, Jatrabari",1,1,4600,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/87468/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1850,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/86887/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/86874/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/86759/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,1950,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/86658/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,2350,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/86545/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/86543/bachelor
+Room,Bachelor Room Rent,"Kajla, Jatrabari",1,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/86541/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/86445/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/86272/bachelor
+Room,Bachelor Room Rent,"Matuail, Jatrabari",1,1,5000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/86262/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2800,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/86261/bachelor
+Flat,Bachelor House Rent,"Dolairpar, Jatrabari",3,3,2300,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/86257/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,1750,June,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/86148/bachelor
+Flat,Bachelor House Rent,"Rayerbag, Jatrabari",1,1,6000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/86001/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,1500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/85932/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,2600,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/85927/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,1500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/85735/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/85734/bachelor
+Seat,Bachelor Seat Rent,"Sheikhdi, Jatrabari",1,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/85732/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,1800,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/85731/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1750,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/85501/bachelor
+Room,Bachelor Room Rent,"Sheikhdi, Jatrabari",1,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/85496/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,1500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/85300/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,1500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/85297/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/85057/bachelor
+Seat,Bachelor Seat Rent,"Bibir Bagicha, Jatrabari",1,2,2000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/84988/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,1725,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/84727/bachelor
+Room,Bachelor Room Rent,"Matuail, Jatrabari",1,1,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/83639/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5000,May,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/83104/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,4000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/83098/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,1500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/82822/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1600,May,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/82820/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/82451/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2250,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/82338/bachelor
+Seat,Bachelor Seat Rent,"Dania, Jatrabari",1,1,2000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/82098/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1833,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/82032/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,8500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/81881/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,1360,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/81877/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2200,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/81675/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1800,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/81674/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,1460,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/81455/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/81164/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,2250,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/81163/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1600,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/81162/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,2000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/80846/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2350,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/80828/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,1700,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/80827/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/80447/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,2000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/80444/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,5500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/80442/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2150,March,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/80108/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,3200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/80106/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,3500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/80104/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/79984/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2450,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/79820/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,1625,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/79760/bachelor
+Seat,Bachelor Seat Rent,"Bibir Bagicha, Jatrabari",1,1,1400,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/79758/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,1960,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/79757/bachelor
+Seat,Bachelor Seat Rent,"Dania, Jatrabari",1,1,2250,March,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/79530/bachelor
+Flat,Bachelor House Rent,"Jatrabari, Dhaka",1,1,5000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/79377/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,6000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/79103/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/79102/bachelor
+Seat,Bachelor Seat Rent,"Bibir Bagicha, Jatrabari",1,1,2500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/79100/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/78716/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/78479/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,4800,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/78468/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,1725,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/78171/bachelor
+Seat,Bachelor Seat Rent,"Sheikhdi, Jatrabari",1,1,1500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/78170/bachelor
+Room,Bachelor Room Rent,"Bibir Bagicha, Jatrabari",1,1,5000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/78169/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1750,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/77902/bachelor
+Room,Bachelor Room Rent,"Matuail, Jatrabari",1,1,4000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/77757/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,1800,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/77756/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2200,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/77752/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,2300,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/77751/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,2600,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/77662/bachelor
+Seat,Bachelor Seat Rent,"Bibir Bagicha, Jatrabari",1,1,2500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/77574/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/77469/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,1950,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/77466/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,1360,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/77443/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/77441/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2400,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/77127/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2350,February,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/76766/bachelor
+Flat,Bachelor House Rent,"Rayerbag, Jatrabari",1,1,2500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/76710/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1333,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/76709/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/76621/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2700,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/76465/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,3500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/75998/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/75997/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/75867/bachelor
+Flat,Bachelor Flat Rent,"Shonir Akhra, Jatrabari",1,1,4000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/75840/bachelor
+Flat,Bachelor House Rent,"Shonir Akhra, Jatrabari",1,1,4300,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/75685/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1685,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/75370/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,4000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/75280/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,1950,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/75202/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2700,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/75200/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1300,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/75199/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,1300,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/75182/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,4000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/75060/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1200,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/75059/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74924/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1100,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74857/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,5000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74852/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74851/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74805/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,4000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74804/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74803/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74698/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,3250,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74697/bachelor
+Room,Bachelor Room Rent,"Kajla, Jatrabari",1,1,4500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74695/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,1850,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74693/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1750,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74580/bachelor
+Room,Bachelor Room Rent,"Kajla, Jatrabari",1,1,6000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74577/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,2500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74574/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,3500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74573/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2200,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74572/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,4000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74320/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,4000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74318/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,1875,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74316/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2280,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74315/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2700,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74312/bachelor
+Room,Bachelor Room Rent,"Matuail, Jatrabari",2,2,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74310/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,1875,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74140/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,2500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74139/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,1940,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74036/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1600,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74035/bachelor
+Seat,Bachelor Seat Rent,"Dania, Jatrabari",1,1,1500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/74034/bachelor
+Seat,Bachelor Seat Rent,"Dania, Jatrabari",1,1,1167,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/73891/bachelor
+Seat,Bachelor Seat Rent,"Bibir Bagicha, Jatrabari",1,1,2300,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/73526/bachelor
+Flat,Bachelor Flat Rent,"Jatrabari, Dhaka",2,1,6500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/73525/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,3500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/73522/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,4000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/73286/bachelor
+Flat,Bachelor House Rent,"Dania, Jatrabari",1,1,3800,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/73272/bachelor
+Flat,Bachelor House Rent,"Kajla, Jatrabari",2,2,10000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/73270/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,2300,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/73269/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/73260/bachelor
+Room,Bachelor Room Rent,"Bibir Bagicha, Jatrabari",1,1,5500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/72649/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,4000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/72639/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,2200,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/72638/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1800,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/72637/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2700,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/72633/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,1665,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/72631/bachelor
+Room,Bachelor Room Rent,"Kajla, Jatrabari",1,1,5000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/72630/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/72314/bachelor
+Flat,Bachelor House Rent,"Shonir Akhra, Jatrabari",2,1,6500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/72187/bachelor
+Seat,Bachelor Seat Rent,"Sheikhdi, Jatrabari",1,1,2000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/72185/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/72013/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1685,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/72012/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/72011/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1950,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/72010/bachelor
+Flat,Bachelor House Rent,"Dania, Jatrabari",2,1,6700,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/71666/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,1360,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/71614/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/71392/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/71390/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/71389/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,5000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/71279/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,4000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/71235/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/70791/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,6500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/70777/bachelor
+Seat,Bachelor Seat Rent,"Matuail, Jatrabari",1,1,1420,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/70776/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,1960,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/70769/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,3300,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/70346/bachelor
+Flat,Bachelor Flat Rent,"Shonir Akhra, Jatrabari",1,1,4500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/70139/bachelor
+Room,Bachelor Room Rent,"Matuail, Jatrabari",1,1,4000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/69538/bachelor
+Seat,Bachelor Seat Rent,"Bibir Bagicha, Jatrabari",1,1,2000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/69537/bachelor
+Seat,Bachelor Seat Rent,"Bibir Bagicha, Jatrabari",1,1,2500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/69536/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/69534/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2075,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/69533/bachelor
+Flat,Bachelor Flat Rent,"Rayerbag, Jatrabari",1,1,5000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/69406/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/69217/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,3000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/69178/bachelor
+Flat,Bachelor House Rent,"Shonir Akhra, Jatrabari",2,1,6500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/68924/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/68923/bachelor
+Flat,Bachelor Flat Rent,"Jatrabari, Dhaka",2,1,8000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/68749/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,4500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/68748/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2300,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/68747/bachelor
+Room,Bachelor Room Rent,"Mir-Hazirbag, Jatrabari",1,1,5500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/68692/bachelor
+Room,Bachelor Room Rent,"Mir-Hazirbag, Jatrabari",1,1,5500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/68585/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/68511/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,2250,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/68503/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,5240,November,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/68358/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,3800,November,Anyone,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/68178/bachelor
+Flat,Bachelor House Rent,"Matuail, Jatrabari",5,3,4000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/67598/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,4000,October,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/67479/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,2500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/67218/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,3750,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/67217/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,3000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/67075/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/67004/bachelor
+Flat,Bachelor Flat Rent,"Shonir Akhra, Jatrabari",1,1,4500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/66965/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2200,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/66963/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,3750,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/66865/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/66413/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,2500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/66322/bachelor
+Flat,Bachelor Flat Rent,"Shonir Akhra, Jatrabari",2,1,6500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/66194/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/66191/bachelor
+Seat,Bachelor Seat Rent,"Dania, Jatrabari",1,1,2000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/66032/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,9000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/65809/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,4500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/65808/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,4500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/65806/bachelor
+Seat,Bachelor Seat Rent,"Dania, Jatrabari",1,1,4500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/65686/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/65565/bachelor
+Room,Bachelor Room Rent,"Kajla, Jatrabari",1,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/65560/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,4000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/65344/bachelor
+Flat,Bachelor Flat Rent,"Shonir Akhra, Jatrabari",2,1,6000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/65342/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/65127/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2000,October,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/65126/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2800,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/64692/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,1500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/64569/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,2100,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/64568/bachelor
+Room,Bachelor Room Rent,"Mir-Hazirbag, Jatrabari",1,1,4500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/64302/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,3000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/64301/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/64295/bachelor
+Seat,Bachelor Seat Rent,"Dania, Jatrabari",1,1,2250,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/64288/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/64068/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/64067/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/64066/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,1800,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/63946/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2200,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/63651/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/63646/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,5000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/63645/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,2450,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/63643/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,3000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/63642/bachelor
+Room,Bachelor Room Rent,"Matuail, Jatrabari",1,1,5000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/63640/bachelor
+Flat,Bachelor Flat Rent,"Kajla, Jatrabari",3,2,8000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/63638/bachelor
+Flat,Bachelor Flat Rent,"Shonir Akhra, Jatrabari",1,1,4500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/63154/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,3750,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/63005/bachelor
+Flat,Bachelor House Rent,"Jatrabari, Dhaka",2,1,6000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/63004/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2600,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/63003/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,4500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/62734/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1850,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/62729/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1700,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/62727/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,5000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/62644/bachelor
+Seat,Bachelor Seat Rent,"Dania, Jatrabari",1,1,2500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/62435/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,1500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/62433/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,6000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/62369/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1800,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/62349/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/62056/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/61990/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/61811/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1400,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/61535/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,1200,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/61530/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,4500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/61226/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/61225/bachelor
+Seat,Bachelor Seat Rent,"Mir-Hazirbag, Jatrabari",1,1,2400,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/61223/bachelor
+Room,Bachelor Room Rent,"Kajla, Jatrabari",1,1,8000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/61222/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1700,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/61220/bachelor
+Seat,Bachelor Seat Rent,"Dania, Jatrabari",1,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/60590/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1700,July,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/60588/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/60579/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,1850,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/59903/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1950,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/59899/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/59637/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,4500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/59248/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,5500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/59245/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/59236/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/59234/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/59119/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/58622/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,4100,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/58621/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/58620/bachelor
+Seat,Bachelor Seat Rent,"Sheikhdi, Jatrabari",1,1,2000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/58471/bachelor
+Flat,Bachelor House Rent,"Mir-Hazirbag, Jatrabari",2,1,7500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/58380/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2075,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/58378/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,5000,July,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/58028/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,3000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/57516/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/57511/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,3000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/57510/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/57268/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1900,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/57153/bachelor
+Room,Bachelor Room Rent,"Matuail, Jatrabari",1,1,4500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/57152/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,1500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/57065/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/56895/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2200,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/56549/bachelor
+Flat,Bachelor Flat Rent,"Shonir Akhra, Jatrabari",1,1,5000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/56545/bachelor
+Seat,Bachelor Seat Rent,"Bibir Bagicha, Jatrabari",1,1,2250,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/56300/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,2700,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/56298/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1650,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/56295/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,2250,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/56294/bachelor
+Seat,Bachelor Seat Rent,"Dania, Jatrabari",1,1,1085,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/56293/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/56292/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,2000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/56285/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/55682/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/55681/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,1500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/55679/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,5500,June,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/55677/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,5500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/55674/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/55672/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,1650,May,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/55248/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/55034/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,3000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/55033/bachelor
+Seat,Bachelor Seat Rent,"Bibir Bagicha, Jatrabari",1,1,2000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/55031/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,2250,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/54644/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/54464/bachelor
+Seat,Bachelor Seat Rent,"Matuail, Jatrabari",1,1,2700,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/54463/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,4000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/54331/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,4500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/54126/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,2750,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/53805/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,1500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/53802/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,1200,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/53674/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,4000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/53569/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,4500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/53568/bachelor
+Room,Bachelor Room Rent,"Matuail, Jatrabari",1,1,2900,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/53565/bachelor
+Seat,Bachelor Seat Rent,"Dolairpar, Jatrabari",1,1,2000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/53288/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1725,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/53287/bachelor
+Flat,Bachelor Flat Rent,"Dania, Jatrabari",2,1,6700,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/53282/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,6500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/53008/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,1500,April,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/53006/bachelor
+Room,Bachelor Room Rent,"Dania, Jatrabari",1,1,4000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/52582/bachelor
+Seat,Bachelor Seat Rent,"Bibir Bagicha, Jatrabari",1,1,2500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/52576/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1350,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/52520/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,6200,March,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/52517/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,3000,April,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/52131/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2500,April,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/52119/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/52118/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,4500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/52116/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/52007/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,2000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/52006/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/51888/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/51490/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1360,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/51488/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2800,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/51486/bachelor
+Seat,Bachelor Seat Rent,"Bibir Bagicha, Jatrabari",1,1,1416,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/51482/bachelor
+Flat,Bachelor Flat Rent,"Rayerbag, Jatrabari",1,1,5500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/51247/bachelor
+Flat,Bachelor Flat Rent,"Shonir Akhra, Jatrabari",2,1,9000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/50953/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,1000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/50951/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/50509/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,3500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/50495/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1335,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/50483/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,5800,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/49894/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,4130,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/49893/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1150,March,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/49877/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,5000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/49616/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,5200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/49615/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,5000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/49610/bachelor
+Seat,Bachelor Seat Rent,"Bibir Bagicha, Jatrabari",1,1,2150,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/49608/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,6200,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/49292/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/49251/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,4500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/49249/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,8000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/49242/bachelor
+Flat,Bachelor House Rent,"Shonir Akhra, Jatrabari",2,2,7000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/48991/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,1000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/48624/bachelor
+Seat,Bachelor Seat Rent,"Dania, Jatrabari",1,1,1080,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/48623/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/48622/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,4000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/48465/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1800,February,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/48463/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/48185/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1200,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/48007/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1700,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/48002/bachelor
+Seat,Bachelor Seat Rent,"Dania, Jatrabari",1,1,1000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/47998/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,2500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/47996/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2200,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/47537/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/47535/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2800,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/47531/bachelor
+Flat,Bachelor Flat Rent,"Jatrabari, Dhaka",2,1,6500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/47119/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,3500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/47116/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,1720,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/47113/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,6200,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/46572/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,1400,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/46568/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,2000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/46012/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,1600,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/45775/bachelor
+Seat,Bachelor Seat Rent,"Matuail, Jatrabari",1,1,1820,January,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/45774/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,5000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/45772/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,2500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/45441/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/45437/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,2000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/45275/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,3000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/44611/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1900,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/44609/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1200,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/44601/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/44578/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/44254/bachelor
+Flat,Bachelor House Rent,"Rayerbag, Jatrabari",2,1,6500,December,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/44252/bachelor
+Flat,Bachelor Flat Rent,"Jatrabari, Dhaka",3,2,9500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/44242/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,3500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/43759/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,1750,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/43757/bachelor
+Seat,Bachelor Seat Rent,"Bibir Bagicha, Jatrabari",1,1,1833,January,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/43752/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/43749/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2100,December,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/43748/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2250,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/43531/bachelor
+Seat,Bachelor Seat Rent,"Matuail, Jatrabari",1,1,2250,December,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/43530/bachelor
+Room,Bachelor Room Rent,"Kajla, Jatrabari",1,1,4500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/43146/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1335,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/43144/bachelor
+Seat,Bachelor Seat Rent,"Shonir Akhra, Jatrabari",1,1,2800,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/42564/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/42561/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,2600,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/42299/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,3500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/42069/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,2160,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/42068/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1750,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/41923/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1950,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/41920/bachelor
+Flat,Bachelor House Rent,"Shonir Akhra, Jatrabari",2,1,6500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/41525/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/41518/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/41214/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1835,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/41051/bachelor
+Seat,Bachelor Seat Rent,"Rayerbag, Jatrabari",1,1,2500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/40711/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/40531/bachelor
+Room,Bachelor Room Rent,"Shonir Akhra, Jatrabari",1,1,4000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/39940/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1200,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/39813/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/39414/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/39407/bachelor
+Seat,Bachelor Seat Rent,"Kajla, Jatrabari",1,1,1875,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/39406/bachelor
+Room,Bachelor Room Rent,"Rayerbag, Jatrabari",1,1,5000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/39405/bachelor
+Room,Bachelor Room Rent,"Kajla, Jatrabari",1,1,3000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/38863/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,4000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/38858/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",2,2,2000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/38553/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/38336/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5000,October,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/38040/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,3000,October,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/37763/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,6500,October,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/37760/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,3000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/37759/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1760,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/37756/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/37752/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1917,September,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/37749/bachelor
+Flat,Bachelor Flat Rent,"Jatrabari, Dhaka",2,1,6500,October,Anyone,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/37200/bachelor
+Bachelor,Bachelor Unit Rent,"Jatrabari, Dhaka",1,1,4500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/37126/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/37122/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/36988/bachelor
+Bachelor,Bachelor Floor Rent,"Jatrabari, Dhaka",1,1,3500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/36973/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2200,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/36635/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1950,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/36633/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1575,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/36632/bachelor
+Flat,Bachelor House Rent,"Jatrabari, Dhaka",10,1,4000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/36268/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/36189/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1950,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/36182/bachelor
+Flat,Bachelor Flat Rent,"Jatrabari, Dhaka",2,1,6000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/35949/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/35947/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,4500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/35946/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/35650/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/35643/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,4500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/35528/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/35183/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2750,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/35181/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1335,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/34674/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1335,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/34673/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/34672/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",3,2,2300,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/34669/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,4250,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/34668/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,6200,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/34666/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,5800,August,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/34663/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,5000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/34661/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",2,2,4000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/34660/bachelor
+Flat,Bachelor Flat Rent,"Jatrabari, Dhaka",2,2,4000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/34653/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1333,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/34378/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",2,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/34142/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/34138/bachelor
+Flat,Bachelor House Rent,"Jatrabari, Dhaka",2,1,5500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/33602/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/32585/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,4500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/32513/bachelor
+Room,Bachelor Room Rent,"Jatrabari, Dhaka",1,1,3500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/31792/bachelor
+Seat,Bachelor Seat Rent,"Jatrabari, Dhaka",1,1,1950,June,Anyone,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/7284/bachelor
+Flat,Bachelor House Rent,"Jatrabari, Dhaka",4,4,2500,January,Female,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/6982/bachelor
+Flat,Bachelor House Rent,"Jatrabari, Dhaka",1,1,2500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/jatrabari/6437/bachelor

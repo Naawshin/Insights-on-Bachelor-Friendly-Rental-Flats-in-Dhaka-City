@@ -1,0 +1,13 @@
+Rent_Type,Title,Location,Bedrooms,Bathrooms,Rent,Availability_Month,Gender,Property_URL
+Room,Bachelor Room Rent,"Kamrangirchar, Dhaka",1.0,1,5000,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kamrangirchar/90540/sublet
+Room,Sublet Room Rent,"Kamrangirchar, Dhaka",,1,4500,August,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kamrangirchar/81325/sublet
+Room,Sublet Room Rent,"Kamrangirchar, Dhaka",,1,6700,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kamrangirchar/74709/sublet
+Room,Sublet Room Rent,"Kamrangirchar, Dhaka",,1,6000,January,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kamrangirchar/67350/bachelor
+Flat,Bachelor Flat Rent,"Kamrangirchar, Dhaka",2.0,2,10000,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kamrangirchar/67206/family
+Flat,Family Flat Rent,"Kamrangirchar, Dhaka",2.0,2,9000,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kamrangirchar/59673/family
+Flat,Family Flat Rent,"Kamrangirchar, Dhaka",2.0,2,8000,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kamrangirchar/57806/sublet
+Room,Sublet Room Rent,"Kamrangirchar, Dhaka",,1,5500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kamrangirchar/46487/bachelor
+Seat,Bachelor Seat Rent,"Kamrangirchar, Dhaka",1.0,1,1500,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kamrangirchar/38202/family
+Flat,Family House Rent,"Kamrangirchar, Dhaka",3.0,2,10500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kamrangirchar/37475/bachelor
+Seat,Bachelor Seat Rent,"Kamrangirchar, Dhaka",1.0,1,1750,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kamrangirchar/30889/office
+Room,Office House Rent,"Kamrangirchar, Dhaka",,2,10000,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kamrangirchar/30497/office

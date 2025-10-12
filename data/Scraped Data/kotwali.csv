@@ -1,0 +1,6 @@
+Rent_Type,Title,Location,Bedrooms,Bathrooms,Rent,Availability_Month,Gender,Property_URL
+Flat,Family Flat Rent,"Kotwali, Dhaka",2.0,2,18000,July,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kotwali/76213/sublet
+Room,Sublet Room Rent,"Kotwali, Dhaka",,1,7000,February,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kotwali/73253/sublet
+Room,Sublet Room Rent,"Kotwali, Dhaka",,1,6000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kotwali/52750/bachelor
+Room,Bachelor Room Rent,"Kotwali, Dhaka",1.0,1,5000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kotwali/51916/bachelor
+Seat,Bachelor Seat Rent,"Kotwali, Dhaka",1.0,1,2350,April,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kotwali/46030/family

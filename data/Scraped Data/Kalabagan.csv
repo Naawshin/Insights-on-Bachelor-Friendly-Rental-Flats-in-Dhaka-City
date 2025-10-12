@@ -1,0 +1,531 @@
+Rent_Type,Title,Location,Bedrooms,Bathrooms,Rent,Availability_Month,Gender,Property_URL
+Room,Bachelor Room Rent,"Kathalbagan, Kalabagan",1.0,1,5600,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/94955/family
+Flat,Family House Rent,"Hatirpul, Kalabagan",2.0,2,22000,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/94952/family
+Flat,Family Flat Rent,"Hatirpul, Kalabagan",2.0,2,22000,October,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/94909/sublet
+Room,Sublet Room Rent,"Panthapath, Kalabagan",,1,14500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/94887/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3260,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/94837/sublet
+Room,Sublet Room Rent,"Kathalbagan, Kalabagan",,1,9000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/94548/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/94284/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/94261/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/93837/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/93836/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3800,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/93832/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,12000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/93828/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2500,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/93825/family
+Flat,Family Flat Rent,"Hatirpul, Kalabagan",2.0,2,22000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/93462/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,5000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/93427/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/93426/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/93397/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,9000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/93223/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/92803/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,13000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/92659/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,4000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/91957/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2600,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/91944/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/91852/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/91549/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/91532/family
+Flat,Family House Rent,"Hatirpul, Kalabagan",2.0,2,22000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/91396/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/91115/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3700,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/91086/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/90971/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,5000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/90970/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/90968/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,4500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/90795/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,12700,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/90782/bachelor
+Room,Bachelor Room Rent,"Kathalbagan, Kalabagan",1.0,1,4000,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/90584/family
+Flat,Family House Rent,"Kalabagan, Dhaka",2.0,2,18000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/90452/sublet
+Seat,Sublet Seat Rent,"Kalabagan, Dhaka",,1,4000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/90451/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/90441/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/90439/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",3.0,3,8500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/90302/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4000,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/90289/family
+Flat,Family House Rent,"Panthapath, Kalabagan",1.0,1,15500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/90144/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,10000,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/89881/family
+Flat,Family House Rent,"Hatirpul, Kalabagan",3.0,4,30000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/89818/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,12000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/89514/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,5500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/89490/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,10000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/89328/sublet
+Room,Sublet Room Rent,"Hatirpul, Kalabagan",,1,14000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/89284/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,6500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/89254/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3800,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/89251/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,7500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/89135/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,2700,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/88562/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2600,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/88492/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2650,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/88337/office
+Room,Office Unit Rent,"Panthapath, Kalabagan",,3,85000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/88285/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,11500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/88260/bachelor
+Seat,Bachelor Seat Rent,"Katabon, Kalabagan",1.0,1,3800,July,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/88195/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,12000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/88073/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,15000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/88067/family
+Flat,Family House Rent,"Kalabagan, Dhaka",1.0,1,13500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/87989/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,5000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/87951/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,7500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/87609/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/87600/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,5500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/87598/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,2700,July,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/87516/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,5000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/87503/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3400,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/87500/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,12000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/87446/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3600,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/87306/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/87304/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,10000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/87302/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3700,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/86740/family
+Flat,Family House Rent,"Kalabagan, Dhaka",3.0,3,30000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/86710/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/86708/family
+Flat,Family House Rent,"Kathalbagan, Kalabagan",3.0,3,33000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/86699/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3300,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/86695/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/86694/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/86678/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,8500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/86677/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/86670/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/86619/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",3.0,2,3500,June,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/86565/sublet
+Room,Sublet Room Rent,"Panthapath, Kalabagan",,1,11000,June,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/86559/sublet
+Room,Sublet Room Rent,"Kathalbagan, Kalabagan",,1,10000,June,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/86459/sublet
+Room,Sublet Room Rent,"Kathalbagan, Kalabagan",,1,9500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/86454/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,11000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/86403/family
+Flat,Family House Rent,"Kathalbagan, Kalabagan",2.0,2,15000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/86053/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3833,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/86052/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3300,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/85625/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/85561/bachelor
+Seat,Bachelor Seat Rent,"Katabon, Kalabagan",1.0,1,5975,June,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/85490/sublet
+Room,Sublet Room Rent,"Kathalbagan, Kalabagan",,1,10000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/85489/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/85401/sublet
+Room,Sublet Room Rent,"Panthapath, Kalabagan",,1,8500,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/85397/family
+Flat,Family Apartment Rent,"Panthapath, Kalabagan",3.0,3,33000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/85346/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,4500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/85090/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,11000,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/85037/family
+Flat,Family House Rent,"Kathalbagan, Kalabagan",2.0,1,17500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/85035/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/85020/family
+Flat,Family Apartment Rent,"Kalabagan, Dhaka",3.0,4,45000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/84843/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,8000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/84830/family
+Flat,Family House Rent,"Kathalbagan, Kalabagan",1.0,1,15500,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/84720/family
+Flat,Family House Rent,"Hatirpul, Kalabagan",2.0,2,23600,May,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/84390/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3000,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/84354/family
+Flat,Family Flat Rent,"Panthapath, Kalabagan",3.0,3,35000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/84169/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,May,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/84128/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2600,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/83947/family
+Flat,Family Flat Rent,"Hatirpul, Kalabagan",4.0,4,45000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/83698/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,4250,May,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/83694/bachelor
+Seat,Bachelor Seat Rent,"Katabon, Kalabagan",1.0,1,2550,May,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/83484/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,12000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/83425/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,8000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/83240/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,8500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/83235/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2500,May,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/83233/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,9000,May,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/83230/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,10000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/83224/family
+Flat,Family House Rent,"Kalabagan, Dhaka",3.0,3,26000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/82912/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",2.0,2,4500,May,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/82738/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,5000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/82608/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2600,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/82586/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3700,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/82575/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,3300,April,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/82568/sublet
+Seat,Sublet Seat Rent,"Kathalbagan, Kalabagan",,1,4000,April,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/82526/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,9000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/82387/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/82082/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2600,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/81861/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3600,May,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/81845/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/81732/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/81565/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/81334/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2500,April,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/81209/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,5500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/81207/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,4000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/81196/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,3500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/81190/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4300,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/81108/family
+Flat,Family Flat Rent,"Kalabagan, Dhaka",1.0,1,15000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/80845/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2600,March,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/80629/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,10500,April,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/80015/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,2,20000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/79765/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/79642/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3166,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/79628/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,4000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/79455/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,5300,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/79416/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/79349/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,5000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/79348/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,9000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/79296/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,9000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/79295/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,3300,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/78962/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,10500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/78894/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3250,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/78641/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3300,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/78636/family
+Flat,Family House Rent,"Kalabagan, Dhaka",2.0,2,18000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/78486/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,2800,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/78443/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/78215/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2600,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/77944/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3600,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/77927/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2800,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/77920/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/77917/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2600,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/77611/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2600,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/77602/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,3500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/77432/bachelor
+Room,Bachelor Room Rent,"Kathalbagan, Kalabagan",1.0,1,7000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/77189/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/77170/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,8500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/77166/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3700,February,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/77027/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,5500,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/76628/family
+Flat,Family House Rent,"Kathalbagan, Kalabagan",3.0,1,20500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/76501/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3333,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/76441/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/75981/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,10000,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/75980/family
+Flat,Family Flat Rent,"Kalabagan, Dhaka",3.0,3,26000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/75978/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,11000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/75766/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,10000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/75638/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/75489/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,9000,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/75487/family
+Flat,Family House Rent,"Kalabagan, Dhaka",2.0,2,18000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/75413/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/75390/family
+Flat,Family Flat Rent,"Kathalbagan, Kalabagan",2.0,1,17000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/75248/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,3100,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/75212/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,5500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/75105/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,4000,February,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/75062/sublet
+Room,Sublet Room Rent,"Hatirpul, Kalabagan",,1,12000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/74916/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3500,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/74716/family
+Flat,Family House Rent,"Kalabagan, Dhaka",2.0,1,16500,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/74715/family
+Flat,Family House Rent,"Kalabagan, Dhaka",3.0,3,25000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/74714/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,9000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/74713/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3500,February,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/74672/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,11000,February,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/74662/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,11000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/74474/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4500,January,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/74309/sublet
+Room,Sublet Room Rent,"Kathalbagan, Kalabagan",,1,12500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/74053/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,4000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/73657/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,11000,January,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/73628/sublet
+Room,Sublet Room Rent,"Kathalbagan, Kalabagan",,1,9000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/73626/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,8500,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/73624/family
+Flat,Family House Rent,"Panthapath, Kalabagan",1.0,1,9500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/73617/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,9000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/73610/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/73505/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/73336/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,12000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/73256/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/73086/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,8000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/73085/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/73082/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,5500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/73056/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3750,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/72925/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3600,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/72736/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,2700,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/72565/sublet
+Room,Sublet Room Rent,"Panthapath, Kalabagan",,1,10000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/72189/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/71949/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3333,January,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/71947/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,10000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/71798/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,11500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/71681/bachelor
+Flat,Bachelor House Rent,"Hatirpul, Kalabagan",1.0,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/71273/sublet
+Room,Sublet Room Rent,"Hatirpul, Kalabagan",,1,15000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/71264/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/71216/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,6000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/71182/sublet
+Room,Sublet Room Rent,"Kathalbagan, Kalabagan",,1,12000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/71086/bachelor
+Room,Bachelor Room Rent,"Katabon, Kalabagan",1.0,1,10000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/71019/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,3500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/71018/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,9500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/71016/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/70275/bachelor
+Room,Bachelor Room Rent,"Kathalbagan, Kalabagan",1.0,1,9000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/70244/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/70203/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/70201/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,November,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/70075/family
+Flat,Family Flat Rent,"Panthapath, Kalabagan",1.0,1,13500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69931/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2500,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69925/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,9000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69916/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4300,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69913/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,4100,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69907/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,5000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69906/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69905/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3750,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69904/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69900/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4000,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69844/family
+Flat,Family House Rent,"Hatirpul, Kalabagan",2.0,2,25000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69843/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,6750,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69842/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,3100,November,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69841/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,10000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69793/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,3200,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69713/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,5000,November,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69489/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,6000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69325/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/69277/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2800,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/68723/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3700,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/68711/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,13500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/68709/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,4750,November,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/68179/family
+Flat,Family Flat Rent,"Kathalbagan, Kalabagan",3.0,2,23000,November,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/68153/family
+Flat,Family House Rent,"Kalabagan, Dhaka",1.0,1,15500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/68146/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,4500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/68143/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/68030/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3000,October,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/67639/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,4500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/67623/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/67571/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/67515/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,4650,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/66571/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,2800,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/66019/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,6000,October,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/65847/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,9000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/65846/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,11000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/65845/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,2900,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/65372/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/64701/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,2000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/64599/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,12000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/64559/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/64556/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/64233/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3833,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/64078/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,12000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/64037/sublet
+Room,Sublet Room Rent,"Panthapath, Kalabagan",,1,11000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/63829/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3750,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/63700/family
+Flat,Family Flat Rent,"Panthapath, Kalabagan",2.0,2,28000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/63629/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,10000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/63628/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,10000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/63477/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,2800,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/63470/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,6000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/63445/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/63228/sublet
+Room,Sublet Room Rent,"Kathalbagan, Kalabagan",,1,12500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/62950/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,10000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/62821/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/62820/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,10000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/62801/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3250,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/62525/family
+Flat,Family House Rent,"Kathalbagan, Kalabagan",1.0,1,14500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/62402/family
+Flat,Family Flat Rent,"Kalabagan, Dhaka",2.0,2,19000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/62337/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/62333/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3300,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/62332/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/62269/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4800,August,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/62224/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,7000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/62223/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3300,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/62142/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,10000,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/61706/family
+Flat,Family House Rent,"Kalabagan, Dhaka",2.0,2,17000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/61705/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,5000,August,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/61700/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,4500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/61524/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,1700,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/61520/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,8500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/61413/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,8500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/61411/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,5500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/61002/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,1700,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/60709/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/60594/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/60536/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4000,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/60386/family
+Flat,Family Flat Rent,"Panthapath, Kalabagan",2.0,3,16000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/60385/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/60382/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,6500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/60362/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3833,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/60360/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3400,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/60232/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2600,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/59951/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/59755/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,5000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/59742/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2800,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/59738/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/59737/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,7500,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/59714/family
+Flat,Family House Rent,"Kathalbagan, Kalabagan",1.0,1,16000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/59679/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,7000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/59413/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3050,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/59075/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/58919/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/58809/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,9500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/58417/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,5400,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/58416/family
+Room,Family Room Rent,"Kathalbagan, Kalabagan",1.0,1,10000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/58354/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,12000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/58248/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3150,July,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/58245/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,12000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/58092/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,5000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/58087/bachelor
+Flat,Bachelor Flat Rent,"Panthapath, Kalabagan",2.0,1,17500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/57891/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/57841/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/57837/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/57700/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,4375,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/57610/family
+Room,Family Room Rent,"Kathalbagan, Kalabagan",1.0,1,10000,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/57509/family
+Flat,Family Flat Rent,"Kathalbagan, Kalabagan",1.0,1,16000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/57331/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,7000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/57329/family
+Flat,Family Flat Rent,"Kalabagan, Dhaka",2.0,2,17000,July,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/57131/family
+Flat,Family House Rent,"Kalabagan, Dhaka",2.0,2,19000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/57127/sublet
+Room,Sublet Room Rent,"Kathalbagan, Kalabagan",,1,9000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/57124/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/57039/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3300,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/56873/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/56703/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,3200,May,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/56702/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,10000,June,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/56674/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,14000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/56672/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,8500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/56619/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,7000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/56605/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,3100,June,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/56071/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3200,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/56044/family
+Flat,Family House Rent,"Hatirpul, Kalabagan",1.0,1,15000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/55627/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/55494/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,May,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/55487/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3600,May,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/54899/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3100,May,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/54892/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3600,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/54751/family
+Room,Family Room Rent,"Kathalbagan, Kalabagan",1.0,1,12000,May,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/54409/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3210,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/54408/family
+Room,Family Room Rent,"Hatirpul, Kalabagan",3.0,4,35000,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/54327/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/54212/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/54208/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,7800,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/54106/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,6000,May,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/53632/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/53496/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,2600,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/53255/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/53155/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3600,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/53151/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,5450,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/52912/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/52778/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2850,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/52702/family
+Flat,Family House Rent,"Kalabagan, Dhaka",3.0,5,17500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/52198/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4335,April,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/51780/sublet
+Room,Sublet Room Rent,"Kathalbagan, Kalabagan",,1,12500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/51741/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,March,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/51614/bachelor
+Room,Bachelor Room Rent,"Kathalbagan, Kalabagan",1.0,1,10000,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/51170/family
+Flat,Family House Rent,"Hatirpul, Kalabagan",2.0,2,21000,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/51020/family
+Room,Family Room Rent,"Kathalbagan, Kalabagan",1.0,1,12000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/50850/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3333,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/50849/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3000,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/50848/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3150,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/50844/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/50666/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/50665/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/50424/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/50264/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/50263/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3330,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/50261/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,2000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/50260/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3200,March,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/50178/family
+Flat,Family House Rent,"Hatirpul, Kalabagan",2.0,2,21000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/50177/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,8000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/50152/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,4000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/49694/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/49688/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/49685/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/49684/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3400,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/49682/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,10500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/49681/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,4000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/49680/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3600,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/49676/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,11000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/49629/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,5450,March,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/49566/sublet
+Room,Sublet Room Rent,"Kathalbagan, Kalabagan",,1,10500,March,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/49516/sublet
+Room,Sublet Room Rent,"Kathalbagan, Kalabagan",,1,7500,April,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/49286/bachelor
+Room,Bachelor Room Rent,"Katabon, Kalabagan",1.0,1,5125,March,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/49095/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3210,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/49042/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/48685/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,2600,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/48163/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,10500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/47844/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/47830/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,8000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/47809/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,5500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/47615/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3000,February,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/47553/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,10000,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/47468/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,2750,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/47466/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,9500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/47465/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,5500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/47464/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4500,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/47463/bachelor
+Room,Bachelor Room Rent,"Kathalbagan, Kalabagan",1.0,1,9500,March,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/47291/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,11000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/47040/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,6500,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/46989/family
+Flat,Family House Rent,"Panthapath, Kalabagan",2.0,2,22000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/46885/bachelor
+Room,Bachelor Room Rent,"Hatirpul, Kalabagan",1.0,1,12000,March,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/46849/sublet
+Room,Sublet Room Rent,"Panthapath, Kalabagan",,1,11000,February,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/46637/family
+Flat,Family Flat Rent,"Kalabagan, Dhaka",3.0,2,19000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/46387/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3500,January,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/46214/family
+Room,Family Room Rent,"Kathalbagan, Kalabagan",1.0,1,10000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/46155/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/46113/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,5300,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/46108/bachelor
+Seat,Bachelor Seat Rent,"Hatirpul, Kalabagan",1.0,1,3100,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/46065/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,5450,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/45956/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,2500,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/45804/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,7750,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/45803/bachelor
+Room,Bachelor Room Rent,"Panthapath, Kalabagan",1.0,1,13000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/45657/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,2000,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/45654/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,8000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/45532/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,4875,January,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/45464/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,9000,February,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/45256/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/45036/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,6100,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/44509/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2700,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/44508/bachelor
+Room,Bachelor Room Rent,"Kathalbagan, Kalabagan",1.0,1,8000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/44506/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,8000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/44503/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,2900,January,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/44098/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4500,December,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/44090/bachelor
+Room,Bachelor Room Rent,"Kathalbagan, Kalabagan",1.0,1,14000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/44089/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,10500,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/43847/family
+Flat,Family Flat Rent,"Kathalbagan, Kalabagan",1.0,2,16000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/43783/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,3250,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/43559/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2500,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/43496/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,November,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/43043/family
+Flat,Family Flat Rent,"Kalabagan, Dhaka",2.0,2,20000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/42974/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,7000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/42956/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,10000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/42830/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,5000,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/42763/sublet
+Room,Sublet Room Rent,"Kathalbagan, Kalabagan",,1,10000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/42713/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,2000,November,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/42669/family
+Flat,Family Flat Rent,"Kalabagan, Dhaka",2.0,2,12000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/42391/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/42319/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/42314/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/41747/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,4000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/41744/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,November,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/41739/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,3210,November,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/41649/family
+Flat,Family Flat Rent,"Kalabagan, Dhaka",3.0,2,23000,November,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/41382/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,5000,December,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/41381/sublet
+Room,Sublet Room Rent,"Kathalbagan, Kalabagan",,1,8500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/41340/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,8000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/41084/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/40874/bachelor
+Room,Bachelor Room Rent,"Kathalbagan, Kalabagan",1.0,1,7500,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/40633/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,4500,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/40118/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,9500,November,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/40070/family
+Flat,Family Apartment Rent,"Panthapath, Kalabagan",3.0,4,35000,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/40069/family
+Flat,Family Apartment Rent,"Panthapath, Kalabagan",3.0,4,36000,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/39762/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,6100,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/39738/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,2700,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/39735/bachelor
+Seat,Bachelor Seat Rent,"Kathalbagan, Kalabagan",1.0,1,6000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/39717/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,4015,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/39454/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",3.0,4,3500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/39229/bachelor
+Seat,Bachelor Seat Rent,"Panthapath, Kalabagan",1.0,1,8000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/39228/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/38660/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4500,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/38652/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/38651/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,14,3500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/38393/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,7000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/37792/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,12000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/37708/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3200,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/37508/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,8500,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/36891/family
+Flat,Family Flat Rent,"Kalabagan, Dhaka",2.0,2,21000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/36838/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3700,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/36828/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,5000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/36605/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,12000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/36420/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,9500,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/36413/family
+Flat,Family Flat Rent,"Kalabagan, Dhaka",3.0,3,25000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/36282/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3100,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/35479/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/35473/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3500,August,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/35462/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",2.0,1,6000,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/35043/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,5000,September,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/35042/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4500,September,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/33938/family
+Flat,Family Flat Rent,"Kalabagan, Dhaka",4.0,4,45000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/33937/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2500,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/33849/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,7500,August,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/33638/family
+Flat,Family Apartment Rent,"Kalabagan, Dhaka",3.0,4,35000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/33034/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/33033/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3100,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/32768/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,9000,August,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/32711/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,3,3100,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/32702/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,4500,July,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/32488/sublet
+Room,Sublet Room Rent,"Kalabagan, Dhaka",,1,9000,July,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/31951/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2200,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/31715/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,2670,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/31601/bachelor
+Room,Bachelor Room Rent,"Kalabagan, Dhaka",1.0,1,4500,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/31591/bachelor
+Seat,Bachelor Seat Rent,"Kalabagan, Dhaka",1.0,1,3000,June,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/31480/family
+Flat,Family Flat Rent,"Kalabagan, Dhaka",2.0,1,4000,June,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/31165/sublet
+Sublet,Sublet House Rent,"Kalabagan, Dhaka",,1,10000,May,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/31032/family
+Flat,Family House Rent,"Kalabagan, Dhaka",3.0,2,0,June,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/30863/bachelor
+Flat,Bachelor House Rent,"Kalabagan, Dhaka",1.0,1,7000,April,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/30815/bachelor
+Flat,Bachelor House Rent,"Kalabagan, Dhaka",2.0,2,0,March,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/30494/sublet
+Sublet,Sublet House Rent,"Kalabagan, Dhaka",,1,9000,January,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/30247/bachelor
+Flat,Bachelor House Rent,"Kalabagan, Dhaka",2.0,2,3250,December,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/30121/bachelor
+Flat,Bachelor House Rent,"Kalabagan, Dhaka",1.0,2,10500,December,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/30116/family
+Flat,Family House Rent,"Kalabagan, Dhaka",3.0,3,0,December,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/7636/bachelor
+Flat,Bachelor House Rent,"Kalabagan, Dhaka",3.0,3,12000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/7574/bachelor
+Flat,Bachelor House Rent,"Kalabagan, Dhaka",1.0,1,10000,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/7570/sublet
+Sublet,Sublet House Rent,"Kalabagan, Dhaka",,2,0,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/7539/bachelor
+Flat,Bachelor House Rent,"Kalabagan, Dhaka",1.0,1,0,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/7294/bachelor
+Flat,Bachelor House Rent,"Kalabagan, Dhaka",1.0,1,0,November,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/7127/bachelor
+Flat,Bachelor House Rent,"Kalabagan, Dhaka",1.0,1,4500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/7125/bachelor
+Flat,Bachelor House Rent,"Kalabagan, Dhaka",1.0,1,4000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/7111/bachelor
+Flat,Bachelor House Rent,"Kalabagan, Dhaka",1.0,1,3000,October,Not specified,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/6493/family
+Flat,Family House Rent,"Kalabagan, Dhaka",3.0,4,35000,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/6458/sublet
+Sublet,Sublet House Rent,"Kalabagan, Dhaka",,1,8500,September,Female,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/6429/sublet
+Sublet,Sublet House Rent,"Kalabagan, Dhaka",,1,10500,October,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/6343/bachelor
+Flat,Bachelor House Rent,"Kalabagan, Dhaka",1.0,1,0,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/6332/bachelor
+Flat,Bachelor House Rent,"Kalabagan, Dhaka",1.0,1,0,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/6144/bachelor
+Flat,Bachelor House Rent,"Kalabagan, Dhaka",1.0,1,0,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/6103/bachelor
+Flat,Bachelor House Rent,"Kalabagan, Dhaka",2.0,2,0,September,Male,https://www.thetolet.com/bd/property-post/dhaka/kalabagan/5973/bachelor

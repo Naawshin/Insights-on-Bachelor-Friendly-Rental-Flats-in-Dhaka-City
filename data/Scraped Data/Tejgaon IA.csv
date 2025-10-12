@@ -1,0 +1,4 @@
+Rent_Type,Title,Location,Bedrooms,Bathrooms,Rent,Availability_Month,Gender,Property_URL
+Seat,Bachelor Seat Rent,"Tejgaon I/A, Dhaka",1,1,2500,August,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon-i-a/92758/bachelor
+Seat,Bachelor Seat Rent,"Tejgaon I/A, Dhaka",1,1,1300,October,Male,https://www.thetolet.com/bd/property-post/dhaka/tejgaon-i-a/38650/bachelor
+Flat,Bachelor House Rent,"Tejgaon I/A, Dhaka",2,2,12000,September,Anyone,https://www.thetolet.com/bd/property-post/dhaka/tejgaon-i-a/6240/bachelor
