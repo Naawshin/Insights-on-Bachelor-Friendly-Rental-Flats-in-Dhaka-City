@@ -3,6 +3,7 @@ This Tableau dashboard provides a comprehensive analysis of bachelor-friendly re
 
 
 Source: https://www.thetolet.com/bd/property-district/dhaka/dhaka?category=bachelor
+
 Map Data Source: https://data.humdata.org/dataset/cod-ab-bgd 
 
 ## Project Overview
@@ -63,8 +64,10 @@ python Selenium Scraper/data_scraper.py
 
 
 ## Dashboard Preview
-<img width="1419" height="624" alt="image" src="https://github.com/user-attachments/assets/f06ea9d1-798c-4a9b-8fad-a1b806c996d5" />
-[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-View%20Dashboard-orange?style=for-the-badge&logo=tableau)](https://public.tableau.com/views/InsightsonBachelor-FriendlyRentalFlatsinDhakaCity/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img width="1919" height="954" alt="image" src="https://github.com/user-attachments/assets/fe6540dd-06e9-46f0-a5f8-d5250002ef2e" />
+
+[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-orange?logo=tableau&logoColor=white)](https://public.tableau.com/views/InsightsonBachelorFriendlyRentalPropertiesinDhaka/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 
