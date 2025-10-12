@@ -22,7 +22,7 @@ The dashboard also includes an interactive tool that allows the user to find are
 Amid a total of 20665 listings scraped over the years 2022 to 2026
 - 18,741 entries remained after data processing with Rent_Type, Title, Location, Rent, Bedrooms, Bathrooms, and Gender identified as the most relevant features for bachelor rentals.
 - The average rent is approximately BDT 4734 with a significant standard deviation of about BDT 3073, indicating a wide range of rental prices.
-- Most vacancies are suitable for men only
+- Most vacancies are available for men only
 - The highest amount of vacancies were noticed in August 2025 with March 2025 being the next highest 
 - Uttara had the highest amount of vacanies amidst all rental listings
 - Most bachelor-friendly 'rooms' are available in Mohammedpur and 'seat' in Lalbagh
@@ -64,9 +64,11 @@ python Selenium Scraper/data_scraper.py
 
 
 ## Dashboard Preview
-<img width="1919" height="954" alt="image" src="https://github.com/user-attachments/assets/fe6540dd-06e9-46f0-a5f8-d5250002ef2e" />
+<img width="1846" height="730" alt="image" src="https://github.com/user-attachments/assets/cddb10de-71f1-422e-b721-e1061037d84d" />
+
 
 [![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-orange?logo=tableau&logoColor=white)](https://public.tableau.com/views/InsightsonBachelorFriendlyRentalPropertiesinDhaka/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 
