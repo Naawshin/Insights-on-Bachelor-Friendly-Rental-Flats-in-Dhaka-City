@@ -64,10 +64,12 @@ python Selenium src/Scraper/data_scraper.py
 
 
 ## Dashboard Preview
-<img width="1846" height="730" alt="image" src="https://github.com/user-attachments/assets/cddb10de-71f1-422e-b721-e1061037d84d" />
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/00450952-47c4-4581-9ee1-b1a8e9567c21" />
 
 
-[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-orange?logo=tableau&logoColor=white)](https://public.tableau.com/views/InsightsonBachelorFriendlyRentalPropertiesinDhaka/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau&logoColor=white)](https://public.tableau.com/views/InsightsonBachelorFriendlyRentalPropertiesinDhaka/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 
