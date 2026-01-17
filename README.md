@@ -41,7 +41,7 @@ git clone https://github.com/Naawshin/Insights-on-Bachelor-Friendly-Rental-Flats
 ```
 2. Initialize and activate virtual environment
 ```bash
-python venv venv
+python -m venv venv
 venv\Scripts\activate
 ```
 3. Install dependencies
@@ -69,6 +69,7 @@ python Selenium src/Scraper/data_scraper.py
 
 
 [![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau&logoColor=white)](https://public.tableau.com/views/InsightsonBachelorFriendlyRentalPropertiesinDhaka/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 
